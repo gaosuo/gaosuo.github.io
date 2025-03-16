@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Dr. Suo Gao, Assistant Professor at Dalian Polytechnic University"
+title: "Assoc. Prof. Dr. Suo Gao "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Suo Gao (Member, IEEE)	received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024.  He is currently a teacher at at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers, with more than 2,000 citations. Notably, seven of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists. [Google Scholar Home Page] (https://scholar.google.cz/citations?user=r97kVgoAAAAJ&hl=zh-CN)
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
