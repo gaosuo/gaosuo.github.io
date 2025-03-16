@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Suo Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Assoc. Prof. at Dalian Polytechnic University"
+  location         : "China"
   employer         : "Dalian University of Technology"
   uri              : # URL
   email            : "gaosuo@dlpu.edu.cn" 
