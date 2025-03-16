@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Suo Gao / Assoc. Prof."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
