@@ -24,7 +24,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/UWA.jpg" alt="UWA" style="width: 300px; margin-right: 5px;">
+  <img src="/images/UWA.jpg" alt="UWA" style="width: 100px; margin-right: 5px;">
   <div>
     <p><strong>Sep 2023 - Mar 2024</strong></p>
     <p>Joint Ph.D.</p>
@@ -35,7 +35,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/dmu.jpg" alt="DMU" style="width: 300px; margin-right: 5px;">
+  <img src="/images/dmu.jpg" alt="DMU" style="width: 100px; margin-right: 5px;">
   <div>
     <p><strong>Sep 2018 - July 2021</strong></p>
     <p>Master, Information Science and Technology College</p>
@@ -46,7 +46,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/SAU.jpg" alt="SAU" style="width: 300px; margin-right: 5px;">
+  <img src="/images/SAU.jpg" alt="SAU" style="width: 100px; margin-right: 5px;">
   <div>
     <p><strong>Sep 2014 - July 2018</strong></p>
     <p>Bachelor, School of Sciences</p>
