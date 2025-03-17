@@ -68,8 +68,6 @@ Experience
     School of Information Science and Engineering<br>
     Dalian Polytechnic University<br>
     No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China<br>
-    E-mail: gaosuo@dlpu.edu.cn; gaosuodlpu@163.com<br>
-    Wechat: 17824839560</p>
   </div>
 </div><br>
 
@@ -129,18 +127,21 @@ Academic Activities
 ------
 **Served as a reviewer for over 30 SCI journals**
 
-Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
-
-Reviewer of IEEE Transactions on Dependable and Secure Computing
-
-Reviewer of IEEE Transactions on Industrial Informatics
-
-Reviewer of IEEE Transactions on Multimedia
-
-Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers
-
-Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13)
+- Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
+- Reviewer of IEEE Transactions on Dependable and Secure Computing
+- Reviewer of IEEE Transactions on Industrial Informatics
+- Reviewer of IEEE Transactions on Multimedia
+- Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers
+- Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13)
 
 
 Awards & Honours
 ------
+- Doctoral National Scholarship (2023)
+- Excellent Master's Degree Thesis in Liaoning Province (2021)
+- Outstanding Graduate in Liaoning Province (2021)
+- Master's National Scholarship (2020)
+- Outstanding Communist Youth League Member of Harbin Institute of Technology (2023)
+- Outstanding Student of Harbin Institute of Technology (2023)
+- Third Prize for Scientific and Technological Progress from Shandong IoT Association (2023)
+- First Prize for Outstanding Natural Science Academic Achievements in Jinan (2023)
