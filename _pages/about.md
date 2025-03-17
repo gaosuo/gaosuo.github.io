@@ -16,7 +16,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
   <img src="/images/HIT.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
   <div>
     <p><strong>Harbin Institute of Technology (2021.09-2024.12)</strong><br>
-    <p>Ph.D., School of Computer Science and Technology<br>
+    Ph.D., School of Computer Science and Technology<br>
     Harbin Institute of Technology (HIT), China<br>
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh" target="_blank"><strong>Xianglong Tang</strong></a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh" target="_blank"><strong>Rui Wu</strong></a></p>
