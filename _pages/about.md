@@ -410,7 +410,10 @@ Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaoti
   publisher={IEEE}
 }
 
-<img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="500" style="float: right; margin-left: 20px;" />
+<div style="display: flex; align-items: center;">
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="300" style="margin-right: 20px;" />
+  <span>啊啊大叔大婶的点点滴滴多大哒哒哒哒哒哒哒哒哒哒哒哒</span>
+</div>
 
 
 Academic Activities
