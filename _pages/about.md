@@ -60,7 +60,7 @@ Experience
 ------
 <div style="display: flex; align-items: center;">
   <img src="/images/dpu.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
-  <div><p><strong>Dalian Polytechnic University (2014.09-Present)</strong><br>
+  <div><p><strong>Dalian Polytechnic University (2025.01-Present)</strong><br>
     School of Information Science and Engineering<br>
     Dalian Polytechnic University<br>
     No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China</p>
