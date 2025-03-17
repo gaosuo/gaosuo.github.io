@@ -71,7 +71,6 @@ Experience
 </div><br>
 
 ## Publication
-------
 ### 2025
 - [32] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D Memristive Cubic Map with Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
 - [31] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A Parallel Color Image Encryption Algorithm Based on a 2D Logistic-Rulkov Neuron Map," **_IEEE Internet of Things Journal_**, doi: 10.1109/JIOT.2025.3540097, 2025.
