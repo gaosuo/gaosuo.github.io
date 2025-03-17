@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Assoc. Prof. Dr. Suo Gao "
+title: "Assoc. Prof. Ph.D. Suo Gao "
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,11 +16,11 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 ### **Sep 2021 - Dec 2024** 
 Doctor, School of Computer Science and Technology  
 Harbin Institute of Technology (C9, 985, 211), China
- Research interests: Computer Vision, Information Security  
+Research interests: Computer Vision, Information Security  
 Advised by: **Professor Xianglong Tang and Rui Wu**  
 
 ### **Sep 2023 - Mar 2024**  
-Joint Ph.D  
+Joint Ph.D.  
 The University of Western Australia (UWA), Australia  
 Research interests: Computer Vision, Information Security  
 Advised by: Professor **[Herbert Ho Ching Iu](https://research-repository.uwa.edu.au/en/persons/ho-ching-iu)** (IEEE Fellow) 
