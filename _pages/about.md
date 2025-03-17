@@ -12,7 +12,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 [WOS Author Profile](https://webofscience.clarivate.cn/wos/author/record/3826940)
 
 ## Education
-======
+
 ### **Sep 2021 - Dec 2024** 
 Doctor, School of Computer Science and Technology  
 Harbin Institute of Technology (C9, 985, 211), China
