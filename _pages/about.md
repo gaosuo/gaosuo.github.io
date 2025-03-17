@@ -126,7 +126,11 @@ Academic Activities
 - Reviewer of IEEE Transactions on Dependable and Secure Computing
 - Reviewer of IEEE Transactions on Industrial Informatics
 - Reviewer of IEEE Transactions on Multimedia
+- Reviewer of IEEE Transactions on Industrial Electronics
 - Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers
+- Reviewer of IEEE Transactions on Circuits and Systems II: Express Briefs
+- Reviewer of IEEE Transactions on Cybernetics
+- Reviewer of IEEE Transactions on Information Forensics & Security
 - Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13)
 
 
