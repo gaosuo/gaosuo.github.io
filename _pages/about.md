@@ -13,28 +13,28 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 ## Education
 ======
-### Doctor, School of Computer Science and Technology  
-**Harbin Institute of Technology (C9, 985, 211), China**  
-**Sep 2021 - Dec 2024**  
-Research interests: Computer Vision, Information Security  
+### **Sep 2021 - Dec 2024** 
+Doctor, School of Computer Science and Technology  
+Harbin Institute of Technology (C9, 985, 211), China
+ Research interests: Computer Vision, Information Security  
 Advised by: **Professor Xianglong Tang and Rui Wu**  
 
-### Joint Ph.D  
-**The University of Western Australia (UWA), Australia**  
-**Sep 2023 - Mar 2024**  
+### **Sep 2023 - Mar 2024**  
+Joint Ph.D  
+The University of Western Australia (UWA), Australia  
 Research interests: Computer Vision, Information Security  
-Advised by: **Professor Herbert Ho Ching Iu (IEEE Fellow)**  
+Advised by: **[Professor Herbert Ho Ching Iu (IEEE Fellow)](https://research-repository.uwa.edu.au/en/persons/ho-ching-iu)**  
 
-### Master, Information Science and Technology College  
-**Dalian Maritime University (DMU), China**  
-**Sep 2018 - July 2021**  
+### **Sep 2018 - July 2021**  
+Master, Information Science and Technology College  
+Dalian Maritime University (DMU), China
 Research interests: Computer Vision, Information Security  
 Advised by: **Professor Xingyuan Wang**  
 
-### Bachelor, School of Sciences  
-**Shenyang Aerospace University (SAU), China**  
-**Sep 2014 - July 2018**  
-Major: **Mathematics**
+### **Sep 2014 - July 2018**  
+Bachelor, School of Sciences  
+Shenyang Aerospace University (SAU), China  
+Major: Mathematics
 
 Getting started
 ======
