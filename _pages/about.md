@@ -15,7 +15,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 <div style="display: flex; align-items: center;">
   <img src="/images/HIT.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
   <div>
-    <p><strong>Harbin Institute of Technology (2021.09-2024.12)</strong></p>
+    <p><strong>Harbin Institute of Technology (2021.09-2024.12)</strong><br>
     <p>Ph.D., School of Computer Science and Technology<br>
     Harbin Institute of Technology (HIT), China<br>
     Research interests: Computer Vision, Information Security<br>
@@ -23,10 +23,11 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
   </div>
 </div>
 
+
 <div style="display: flex; align-items: center;">
   <img src="/images/UWA.jpg" alt="UWA" style="width: 100px; margin-right: 10px;">
   <div>
-    <p><strong>The University of Western Australia (2023.09-2024.03)</strong></p>
+    <p><strong>The University of Western Australia (2023.09-2024.03)</strong><br>
     Joint Ph.D.<br>
     The University of Western Australia (UWA), Australia<br>
     Research interests: Computer Vision, Information Security<br>
@@ -34,10 +35,11 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
   </div>
 </div>
 
+
 <div style="display: flex; align-items: center;">
   <img src="/images/dmu.jpg" alt="DMU" style="width: 100px; margin-right: 10px;">
   <div>
-    <p><strong>Dalian Maritime University (2018.09-2021.09)</strong></p>
+    <p><strong>Dalian Maritime University (2018.09-2021.09)</strong><br>
     Master, Information Science and Technology College<br>
     Dalian Maritime University (DMU), China<br>
     Research interests: Computer Vision, Information Security<br>
@@ -45,10 +47,11 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
   </div>
 </div>
 
+
 <div style="display: flex; align-items: center;">
   <img src="/images/SAU.jpg" alt="SAU" style="width: 100px; margin-right: 10px;">
   <div>
-    <p><strong>Shenyang Aerospace University (2014.09-2018.09)</strong></p>
+    <p><strong>Shenyang Aerospace University (2014.09-2018.09)</strong><br>
     Bachelor, School of Sciences<br>
     Shenyang Aerospace University (SAU), China<br>
     Major: Mathematics</p>
