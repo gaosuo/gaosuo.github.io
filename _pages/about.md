@@ -88,7 +88,7 @@ Major: Mathematics
 
 Academic Activities
 ------
-Served as a reviewer for over 30 SCI journals
+**Served as a reviewer for over 30 SCI journals**
 
 Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
 
