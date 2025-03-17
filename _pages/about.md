@@ -355,7 +355,7 @@ Major: Mathematics
   publisher={IEEE}
 }
 
-ACADEMIC ACTIVITIES
+Academic Activities
 ------
 Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
 
@@ -366,3 +366,5 @@ Reviewer of IEEE Transactions on Industrial Informatics
 Reviewer of IEEE Transactions on Multimedia
 
 Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers
+
+Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13)
