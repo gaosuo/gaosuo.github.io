@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers, with more than 2,000 citations. Notably, seven of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists. 
-
+Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers, with more than 2,000 citations. Notably, seven of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists.  
+E-mail: gaosuo@dlpu.edu.cn; gaosuodlpu@163.com  
+Wechat: 17824839560  
 [WOS Author Profile](https://webofscience.clarivate.cn/wos/author/record/3826940)
 
 ## Education
@@ -61,13 +62,17 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 Experience
 ------
-2014.09-Present
-Associate Professor, PhD.
-School of Information Science and Engineering
-Dalian Polytechnic University
-No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China
-E-mail: gaosuo@dlpu.edu.cn; gaosuodlpu@163.com
-Wechat: 17824839560
+<div style="display: flex; align-items: center;">
+  <img src="/images/dpu.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
+  <div><p><strong>Dalian Polytechnic University (2014.09-Present)</strong><br>
+    School of Information Science and Engineering<br>
+    Dalian Polytechnic University<br>
+    No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China<br>
+    E-mail: gaosuo@dlpu.edu.cn; gaosuodlpu@163.com<br>
+    Wechat: 17824839560</p>
+  </div>
+</div><br>
+
 
 ## Publication
 ------
