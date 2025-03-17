@@ -58,7 +58,19 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
   </div>
 </div><br>
 
+
+Experience
+------
+2014.09-Present
+Associate Professor, PhD.
+School of Information Science and Engineering
+Dalian Polytechnic University
+No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China
+E-mail: gaosuo@dlpu.edu.cn; gaosuodlpu@163.com
+Wechat: 17824839560
+
 ## Publication
+------
 ### 2025
 - [32] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D Memristive Cubic Map with Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
 - [31] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A Parallel Color Image Encryption Algorithm Based on a 2D Logistic-Rulkov Neuron Map," **_IEEE Internet of Things Journal_**, doi: 10.1109/JIOT.2025.3540097, 2025.
@@ -123,3 +135,7 @@ Reviewer of IEEE Transactions on Multimedia
 Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers
 
 Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13)
+
+
+Awards & Honours
+------
