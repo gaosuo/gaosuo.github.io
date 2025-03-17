@@ -61,7 +61,11 @@ PUBLICATIO
 ACADEMIC ACTIVITIES
 ------
 Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
+
 Reviewer of IEEE Transactions on Dependable and Secure Computing
+
 Reviewer of IEEE Transactions on Industrial Informatics
+
 Reviewer of IEEE Transactions on Multimedia
+
 Reviewer of IEEE Transactions on Circuits and Systems I: Regular Papers
