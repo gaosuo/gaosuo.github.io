@@ -410,10 +410,10 @@ Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaoti
   publisher={IEEE}
 }
 
-<p align="left">
+<div style="display: flex; align-items: center;">
   <img src="/images/editing-talk.png" alt="Editing Talk" width="200">
-  啊啊大叔大婶的点点滴滴多大哒哒哒哒哒哒哒哒哒哒哒哒
-</p>
+  <span style="margin-left: 10px;">Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion</span>
+</div>
 
 Academic Activities
 ------
