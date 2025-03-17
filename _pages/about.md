@@ -15,7 +15,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 ### **Sep 2021 - Dec 2024** 
 Doctor, School of Computer Science and Technology  
-Harbin Institute of Technology (C9, 985, 211), China
+Harbin Institute of Technology (HIT), China
 
 Research interests: Computer Vision, Information Security  
 Advised by: **Professor Xianglong Tang and Rui Wu**  
