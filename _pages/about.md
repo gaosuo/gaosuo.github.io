@@ -410,6 +410,9 @@ Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaoti
   publisher={IEEE}
 }
 
+<img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" width="500" style="float: right; margin-left: 20px;" />
+
+
 Academic Activities
 ------
 Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
