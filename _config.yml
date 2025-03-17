@@ -30,13 +30,13 @@ author:
   employer         : "Dalian Polytechnic University"
   uri              : # URL
   email            : "gaosuo@dlpu.edu.cn" 
-  email            : "gaosuodlpu@163.com" 
+  #email            : "gaosuodlpu@163.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.cz/citations?user=r97kVgoAAAAJ&hl=zh-CN"
   # impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5790-7429"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Suo-Gao"
