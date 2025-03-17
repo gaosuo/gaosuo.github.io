@@ -25,7 +25,8 @@ Wechat: 17824839560
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh" target="_blank"><strong>Xianglong Tang</strong></a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh" target="_blank"><strong>Rui Wu</strong></a></p>
   </div>
-</div><br>
+</div>
+
 <div style="display: flex; align-items: center;">
   <img src="/images/UWA.jpg" alt="UWA" style="width: 100px; margin-right: 10px;">
   <div>
@@ -35,7 +36,8 @@ Wechat: 17824839560
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
   </div>
-</div><br>
+</div>
+
 <div style="display: flex; align-items: center;">
   <img src="/images/dmu.jpg" alt="DMU" style="width: 100px; margin-right: 10px;">
   <div>
@@ -45,7 +47,8 @@ Wechat: 17824839560
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://www.webofscience.com/wos/author/record/1501004" target="_blank"><strong>Xingyuan Wang</strong></a></p>
   </div>
-</div><br>
+</div>
+
 <div style="display: flex; align-items: center;">
   <img src="/images/SAU.jpg" alt="SAU" style="width: 100px; margin-right: 10px;">
   <div>
@@ -54,7 +57,7 @@ Wechat: 17824839560
     Shenyang Aerospace University (SAU), China<br>
     Major: Mathematics</p>
   </div>
-</div><br>
+</div>
 
 Experience
 ------
@@ -66,7 +69,7 @@ Experience
     Dalian Polytechnic University<br>
     No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China</p>
   </div>
-</div><br>
+</div>
 
 ## Publication
 ### 2025
