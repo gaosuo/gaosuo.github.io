@@ -24,7 +24,6 @@ Wechat: 17824839560
   </div>
 </div><br>
 
-
 <div style="display: flex; align-items: center;">
   <img src="/images/UWA.jpg" alt="UWA" style="width: 100px; margin-right: 10px;">
   <div>
@@ -35,7 +34,6 @@ Wechat: 17824839560
     Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
   </div>
 </div><br>
-
 
 <div style="display: flex; align-items: center;">
   <img src="/images/dmu.jpg" alt="DMU" style="width: 100px; margin-right: 10px;">
@@ -48,7 +46,6 @@ Wechat: 17824839560
   </div>
 </div><br>
 
-
 <div style="display: flex; align-items: center;">
   <img src="/images/SAU.jpg" alt="SAU" style="width: 100px; margin-right: 10px;">
   <div>
@@ -58,7 +55,6 @@ Wechat: 17824839560
     Major: Mathematics</p>
   </div>
 </div><br>
-
 
 Experience
 ------
@@ -70,7 +66,6 @@ Experience
     No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China<br>
   </div>
 </div><br>
-
 
 ## Publication
 ------
@@ -137,11 +132,13 @@ Academic Activities
 
 Awards & Honours
 ------
+- World's Top 2% Scientists (2024)
 - Doctoral National Scholarship (2023)
-- Excellent Master's Degree Thesis in Liaoning Province (2021)
-- Outstanding Graduate in Liaoning Province (2021)
-- Master's National Scholarship (2020)
 - Outstanding Communist Youth League Member of Harbin Institute of Technology (2023)
 - Outstanding Student of Harbin Institute of Technology (2023)
 - Third Prize for Scientific and Technological Progress from Shandong IoT Association (2023)
 - First Prize for Outstanding Natural Science Academic Achievements in Jinan (2023)
+- Excellent Master's Degree Thesis in Liaoning Province (2021)
+- Outstanding Graduate in Liaoning Province (2021)
+- Master's National Scholarship (2020)
+
