@@ -9,22 +9,32 @@ redirect_from:
 
 Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers, with more than 2,000 citations. Notably, seven of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists. 
 
-[Google Scholar Home Page](https://scholar.google.cz/citations?user=r97kVgoAAAAJ&hl=zh-CN)
-
-[ORCID](https://orcid.org/0000-0001-5790-7429)
-
-[ResearchGate](https://www.researchgate.net/profile/Suo-Gao)
-
 [WOS Author Profile](https://webofscience.clarivate.cn/wos/author/record/3826940)
 
-
-This is the front page of a website that is powered by the [Google Scholar Home Page](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+## Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### Doctor, School of Computer Science and Technology  
+**Harbin Institute of Technology (C9, 985, 211), China**  
+**Sep 2021 - Dec 2024**  
+Research interests: Computer Vision, Information Security  
+Advised by: **Professor Xianglong Tang and Rui Wu**  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### Joint Ph.D  
+**The University of Western Australia (UWA), Australia**  
+**Sep 2023 - Mar 2024**  
+Research interests: Computer Vision, Information Security  
+Advised by: **Professor Herbert Ho Ching Iu (IEEE Fellow)**  
+
+### Master, Information Science and Technology College  
+**Dalian Maritime University (DMU), China**  
+**Sep 2018 - July 2021**  
+Research interests: Computer Vision, Information Security  
+Advised by: **Professor Xingyuan Wang**  
+
+### Bachelor, School of Sciences  
+**Shenyang Aerospace University (SAU), China**  
+**Sep 2014 - July 2018**  
+Major: **Mathematics**
 
 Getting started
 ======
