@@ -83,23 +83,23 @@ Experience
 - [26] **_Suo Gao_**, Herbert Ho-Ching Iu, Jun Mou, Ugur Erkan, Jiafeng Liu, Rui Wu, Xianglong Tang. "Temporal action segmentation for video encryption," **_Chaos, Solitons & Fractals_**, Vol. 183, p. 114958, 2024.
 - [25] Fang Yin, Ao Li, Chunyan Lv, Rui Wu, **_Suo Gao_**. "A new image encryption algorithm with feedback key mechanism using two-dimensional dual discrete quadratic chaotic map," **_Nonlinear Dynamics_**, Vol. 112, No. 22, pp. 20417–20435, 2024.
 - [24] Ugur Erkan, Abdurrahim Toktas, Samet Memis, Feyza Toktas, Qiang Lai, Heping Wen, **_Suo Gao_**. "OSMRD-IE: octal-based shuffling and multi-layer rotational diffusing image encryption using 2D hybrid Michalewicz-Ackley map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 12, pp. 35113-35123, 2024.
-- [23] Omer Kocak, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**, "PSO-based image encryption scheme using modular integrated logistic exponential map," **_Expert Systems with Applications_**, Vol. 237, p. 121452, 2024.
-- [22] Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**, Chanil Pak, "A robust bit-level image encryption based on Bessel map," **_Applied Mathematics and Computation_**, Vol. 462, p. 128340, 2024.
-- [21] Enver Akbacak, Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**, "MLMQ-IR: Multi-label multi-query image retrieval based on the variance of Hamming distance," **_Knowledge-Based Systems_**, Vol. 283, p. 111193, 2024.
+- [23] Omer Kocak, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**. "PSO-based image encryption scheme using modular integrated logistic exponential map," **_Expert Systems with Applications_**, Vol. 237, p. 121452, 2024.
+- [22] Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**, Chanil Pak. "A robust bit-level image encryption based on Bessel map," **_Applied Mathematics and Computation_**, Vol. 462, p. 128340, 2024.
+- [21] Enver Akbacak, Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**. "MLMQ-IR: Multi-label multi-query image retrieval based on the variance of Hamming distance," **_Knowledge-Based Systems_**, Vol. 283, p. 111193, 2024.
 - [20] Qi Li, Bin Ma, Xiaoyu Wang, Chunpeng Wang, **_Suo Gao_**. "Image steganography in color conversion," **_IEEE Transactions on Circuits and Systems II: Express Briefs_**, Vol. 71, No. 1, pp. 106–110, 2024.
 
 ### 2023
 - [19] **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Chunpeng Wang, Xianglong Tang. "Asynchronous updating Boolean network encryption algorithm," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 33, No. 8, pp. 4388–4400, 2023.
-- [18] **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Xianglong Tang, "EFR-CSTP: Encryption for face recognition based on the chaos and semi-tensor product theory," **_Information Sciences_**, Vol. 621, pp. 766–781, 2023.
+- [18] **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Xianglong Tang. "EFR-CSTP: Encryption for face recognition based on the chaos and semi-tensor product theory," **_Information Sciences_**, Vol. 621, pp. 766–781, 2023.
 - [17]  **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jin Wang, Qi Li, Chunpeng Wang, Xianglong Tang. "A 3D model encryption scheme based on a cascaded chaotic system," **_Signal Processing_**, Vol. 202, pp. 108745, 2023.
 - [16] **_Suo Gao_**, Songbo Liu, Xingyuan Wang, Rui Wu, Jin Wang, Qi Li, Xianglong Tang. "New image encryption algorithm based on hyperchaotic 3D-IHAL and a hybrid cryptosystem," **_Applied Intelligence_**, Vol. 53, No. 22, pp. 27826–27843, 2023.
-- [15] Rui Wu, **_Suo Gao_**, Herbert Ho-Ching Iu, Shuang Zhou, Ugur Erkan, Abdurrahim Toktas, Xianglong Tang, "Securing dual-channel audio communication with a 2-D infinite collapse and logistic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 6, pp. 10214–10223, 2023.
+- [15] Rui Wu, **_Suo Gao_**, Herbert Ho-Ching Iu, Shuang Zhou, Ugur Erkan, Abdurrahim Toktas, Xianglong Tang. "Securing dual-channel audio communication with a 2-D infinite collapse and logistic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 6, pp. 10214–10223, 2023.
 
 ### 2022  
-- [14] Rui Wu, **_Suo Gao_**, Xingyuan Wang, Songbo Liu, Qi Li, Ugur Erkan, Xianglong Tang, "AEA-NCS: An audio encryption algorithm based on a nested chaotic system," **_Chaos, Solitons & Fractals_**, Vol. 165, p. 112770, 2022.
+- [14] Rui Wu, **_Suo Gao_**, Xingyuan Wang, Songbo Liu, Qi Li, Ugur Erkan, Xianglong Tang. "AEA-NCS: An audio encryption algorithm based on a nested chaotic system," **_Chaos, Solitons & Fractals_**, Vol. 165, p. 112770, 2022.
 - [13] Qi Li, Chunpeng Wang, Xiaoyu Wang, Jian Li, Zhiqiu Xia, **_Suo Gao_**, Bin Ma. "基于残差学习的新型不可感知水印攻击方法," **_软件学报_**, Vol. 34, No. 9, pp. 4351–4361, 2022.
 - [12] Qi Li, Xingyuan Wang, Bin Ma, Xiaoyu Wang, Chunpeng Wang, **_Suo Gao_**, Yunqing Shi. "Concealed attack for robust watermarking based on generative model and perceptual loss," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 32, No. 8, pp. 5695–5706, 2022.
-- [11] Shuang Zhou, Xingyuan Wang, Yingqian Zhang, Bin Ge, Mingxu Wang. **_Suo Gao_**, "A novel image encryption cryptosystem based on true random numbers and chaotic systems," **_Multimedia Systems_**, Vol. 28, No. 1, pp. 95-112, 2022.
+- [11] Shuang Zhou, Xingyuan Wang, Yingqian Zhang, Bin Ge, Mingxu Wang. **_Suo Gao_**. "A novel image encryption cryptosystem based on true random numbers and chaotic systems," **_Multimedia Systems_**, Vol. 28, No. 1, pp. 95-112, 2022.
 
 ### 2021  
 - [10] Xingyuan Wang, **_Suo Gao_**. "A chaotic image encryption algorithm based on a counting system and the semi-tensor product," **_Multimedia Tools and Applications_**, Vol. 80, No. 7, pp. 10301–10322, 2021.
