@@ -36,8 +36,8 @@ Bachelor, School of Sciences
 Shenyang Aerospace University (SAU), China  
 Major: Mathematics
 
-PUBLICATIO
-======
+## Publication
+
 [1] Gao S, Iu H H C, Erkan U, et al. A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption. IEEE Transactions on Circuits and Systems for Video Technology, 2025, doi: 10.1109/TCSVT.2025.3545868.
 
 [2] Gao S, Zhang Z, Iu H H C, et al. A parallel color image encryption algorithm based on a 2D logistic-rulkov neuron map. IEEE Internet of Things Journal, 2025, doi: 10.1109/JIOT.2025.3540097.
