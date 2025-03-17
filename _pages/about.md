@@ -83,11 +83,11 @@ Ye, Xiaolin, Wang, Xingyuan, **_Suo Gao_**, Mou, Jun, Wang, Zhisen, "A new rando
 Wang, Xingyuan, **_Suo Gao_**, "Image encryption algorithm for synchronously updating Boolean networks based on matrix semi-tensor product theory," **_Information Sciences_**, Vol. 507, pp. 16–36, 2020.
 
 ### 2019
--[3] Ye, Xiaolin, Wang, Xingyuan, **_Suo Gao_**, Mou, Jun, Wang, Zhisen, Yang, Feifei, "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, pp. 1489–1506, 2020.
+- [3] Ye, Xiaolin, Wang, Xingyuan, **_Suo Gao_**, Mou, Jun, Wang, Zhisen, Yang, Feifei, "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, pp. 1489–1506, 2020.
 
--[2] Wang, Xingyuan, **_Suo Gao_**, "Application of matrix semi-tensor product in chaotic image encryption," **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
+- [2] Wang, Xingyuan, **_Suo Gao_**, "Application of matrix semi-tensor product in chaotic image encryption," **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
 
--[1] Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion," **_IEEE Access_**, Vol. 7, pp. 103662–103677, 2019.
+- [1] Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion," **_IEEE Access_**, Vol. 7, pp. 103662–103677, 2019.
 
 
 
