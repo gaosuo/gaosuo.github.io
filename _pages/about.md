@@ -71,19 +71,17 @@ Major: Mathematics
 "Qi Li, Xingyuan Wang, He Wang, Xiaolin Ye, Shuang Zhou, **_Suo Gao_**, Yunqing Shi, \"A secure image protection algorithm by steganography and encryption using the 2D-TSCC,\" **_Chinese Physics B_**, Vol. 30, No. 11, p. 110501, 2021.",
     "Xingyuan Wang, **_Suo Gao_**, \"A chaotic image encryption algorithm based on a counting system and the semi-tensor product,\" **_Multimedia Tools and Applications_**, Vol. 80, No. 7, pp. 10301–10322, 2021.",
     "Xingyuan Wang, **_Suo Gao_**, Xiaolin Ye, Shuang Zhou, Mingxu Wang, \"A new image encryption algorithm with cantor diagonal scrambling based on the PUMCML system,\" **_International Journal of Bifurcation and Chaos_**, Vol. 31, No. 01, p. 2150003, 2021.",
-    "\n### 2020\n",
-    "[3] Mingxu Wang, Xingyuan Wang, Chunpeng Wang, Zhiqiu Xia, Hongyu Zhao, **_Suo Gao_**, Shuang Zhou, Nianmin Yao, \"Spatiotemporal chaos in cross coupled map lattice with dynamic coupling coefficient and its application in bit-level color image encryption,\" **_Chaos, Solitons & Fractals_**, Vol. 139, p. 110028, 2020.",
-    "[3] Xingyuan Wang, **_Suo Gao_**, \"Image encryption algorithm based on the matrix semi-tensor product with a compound secret key produced by a Boolean network,\" **_nformation Sciences_**, Vol. 539, pp. 195–214, 2020.",
-    "[3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, \"A new random diffusion algorithm based on the multi-scroll Chua's chaotic circuit system,\" **_Optics and Lasers in Engineering_**, Vol. 127, p. 105905, 2020.",
-    "[3] Xingyuan Wang, **_Suo Gao_**, \"Image encryption algorithm for synchronously updating Boolean networks based on matrix semi-tensor product theory,\" **_Information Sciences_**, Vol. 507, pp. 16–36, 2020.",
-
-    "[3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, Feifei Yang, \"A new chaotic circuit with multiple memristors and its application in image encryption,\" **_Nonlinear Dynamics_**, Vol. 99, No. 2, pp. 1489–1506, 2020.",
     
+### 2020
+- [7] Mingxu Wang, Xingyuan Wang, Chunpeng Wang, Zhiqiu Xia, Hongyu Zhao, **_Suo Gao_**, Shuang Zhou, Nianmin Yao. "Spatiotemporal chaos in cross coupled map lattice with dynamic coupling coefficient and its application in bit-level color image encryption," **_Chaos, Solitons & Fractals_**, Vol. 139, p. 110028, 2020.
+- [6] Xingyuan Wang, **_Suo Gao_**. "Image encryption algorithm for synchronously updating Boolean networks based on matrix semi-tensor product theory," **_Information Sciences_**, Vol. 507, pp. 16–36, 2020.  
+- [5] Xingyuan Wang, **_Suo Gao_**, "Image encryption algorithm based on the matrix semi-tensor product with a compound secret key produced by a Boolean network," **_Information Sciences_**, Vol. 539, pp. 195–214, 2020.  
+- [4] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, "A new random diffusion algorithm based on the multi-scroll Chua's chaotic circuit system," **_Optics and Lasers in Engineering_**, Vol. 127, p. 105905, 2020.  
+- [3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, Feifei Yang. "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, No. 2, pp. 1489–1506, 2020.    
 ### 2019
     
 - [2] Xingyuan Wang, **_Suo Gao_**. "Application of matrix semi-tensor product in chaotic image encryption,\" **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
 - [1] Xingyuan Wang, **_Suo Gao_**, Longjiao Yu, Yuming Sun, Huaihuai Sun. "Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion," **_IEEE Access_**, Vol. 7, pp. 103662–103677, 2019.
-]
 
 
 
