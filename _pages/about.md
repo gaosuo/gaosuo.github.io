@@ -13,7 +13,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 ## Education
 <div style="display: flex; align-items: center;">
-  <img src="/images/bio-photo-2.jpg" alt="Editing a markdown file for a talk" style="width: 300px; margin-right: 10px;">
+  <img src="/images/bio-photo-2.jpg" alt="Editing a markdown file for a talk" style="width: 20px; margin-right: 5px;">
   <p style="margin: 0;">
     **Sep 2021 - Dec 2024**  
     Doctor, School of Computer Science and Technology  
