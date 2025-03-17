@@ -11,8 +11,8 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 [WOS Author Profile](https://webofscience.clarivate.cn/wos/author/record/3826940)
 
-E-mail: gaosuo@dlpu.edu.cn
-E-mail: gaosuodlpu@163.com  
+E-mail: gaosuo@dlpu.edu.cn  
+E-mail: gaosuodlpu@163.com    
 Wechat: 17824839560  
 
 ## Education
