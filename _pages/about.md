@@ -14,8 +14,8 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 ## Education
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" style="width: 300px; margin-right: 10px;">
-  <p>### **Sep 2021 - Dec 2024** 
+  <img src="/images/bio-photo-2.jpg" alt="Editing a markdown file for a talk" style="width: 300px; margin-right: 10px;">
+  <p>**Sep 2021 - Dec 2024** 
 Doctor, School of Computer Science and Technology  
 Harbin Institute of Technology (HIT), China  
 Research interests: Computer Vision, Information Security  
