@@ -411,7 +411,7 @@ Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaoti
 }
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" style="width: 100px; margin-right: 10px;">
+  <img src="/images/editing-talk.png" alt="Editing a markdown file for a talk" style="width: 100px; margin-right: 5px;">
   <p>啊啊大叔大婶的点点滴滴多大哒哒哒哒哒哒哒哒哒哒哒哒</p>
 </div>
 
