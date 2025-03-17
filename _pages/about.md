@@ -13,32 +13,47 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 ## Education
 <div style="display: flex; align-items: center;">
-  <img src="/images/bio-photo-2.jpg" alt="Editing a markdown file for a talk" style="width: 20px; margin-right: 5px;">
-  <p style="margin: 0;">
-    **Sep 2021 - Dec 2024**  
-    Doctor, School of Computer Science and Technology  
-    Harbin Institute of Technology (HIT), China  
-    Research interests: Computer Vision, Information Security  
-    Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh">Xianglong Tang</a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh">Rui Wu</a>
-  </p>
+  <img src="/images/HIT.jpg" alt="HIT" style="width: 100px; margin-right: 5px;">
+  <div>
+    <p><strong>Sep 2021 - Dec 2024</strong></p>
+    <p>Doctor, School of Computer Science and Technology</p>
+    <p>Harbin Institute of Technology (HIT), China</p>
+    <p>Research interests: Computer Vision, Information Security</p>
+    <p>Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh" target="_blank"><strong>Xianglong Tang</strong></a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh" target="_blank"><strong>Rui Wu</strong></a></p>
+  </div>
 </div>
 
-### **Sep 2023 - Mar 2024**  
-Joint Ph.D.  
-The University of Western Australia (UWA), Australia  
-Research interests: Computer Vision, Information Security  
-Advised by: Professor **[Herbert Ho Ching Iu](https://research-repository.uwa.edu.au/en/persons/ho-ching-iu)** (IEEE Fellow) 
+<div style="display: flex; align-items: center;">
+  <img src="/images/UWA.jpg" alt="UWA" style="width: 300px; margin-right: 5px;">
+  <div>
+    <p><strong>Sep 2023 - Mar 2024</strong></p>
+    <p>Joint Ph.D.</p>
+    <p>The University of Western Australia (UWA), Australia</p>
+    <p>Research interests: Computer Vision, Information Security</p>
+    <p>Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
+  </div>
+</div>
 
-### **Sep 2018 - July 2021**  
-Master, Information Science and Technology College  
-Dalian Maritime University (DMU), China  
-Research interests: Computer Vision, Information Security  
-Advised by: Professor **[Xingyuan Wang](https://www.webofscience.com/wos/author/record/1501004)**
+<div style="display: flex; align-items: center;">
+  <img src="/images/dmu.jpg" alt="DMU" style="width: 300px; margin-right: 5px;">
+  <div>
+    <p><strong>Sep 2018 - July 2021</strong></p>
+    <p>Master, Information Science and Technology College</p>
+    <p>Dalian Maritime University (DMU), China</p>
+    <p>Research interests: Computer Vision, Information Security</p>
+    <p>Advised by: Professor <a href="https://www.webofscience.com/wos/author/record/1501004" target="_blank"><strong>Xingyuan Wang</strong></a></p>
+  </div>
+</div>
 
-### **Sep 2014 - July 2018**  
-Bachelor, School of Sciences  
-Shenyang Aerospace University (SAU), China  
-Major: Mathematics
+<div style="display: flex; align-items: center;">
+  <img src="/images/SAU.jpg" alt="SAU" style="width: 300px; margin-right: 5px;">
+  <div>
+    <p><strong>Sep 2014 - July 2018</strong></p>
+    <p>Bachelor, School of Sciences</p>
+    <p>Shenyang Aerospace University (SAU), China</p>
+    <p>Major: Mathematics</p>
+  </div>
+</div>
 
 ## Publication
 ### 2025
