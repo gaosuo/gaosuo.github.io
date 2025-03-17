@@ -15,8 +15,8 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 <div style="display: flex; align-items: center;">
   <img src="/images/HIT.jpg" alt="HIT" style="width: 100px; margin-right: 5px;">
   <div>
-    <p><strong>Sep 2021 - Dec 2024</strong></p>
-    <p>Doctor, School of Computer Science and Technology<br>
+    <p><strong>Harbin Institute of Technology (HIT) (2021.09-2024.12)</strong></p>
+    <p>Ph.D., School of Computer Science and Technology<br>
     Harbin Institute of Technology (HIT), China<br>
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh" target="_blank"><strong>Xianglong Tang</strong></a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh" target="_blank"><strong>Rui Wu</strong></a></p>
@@ -26,32 +26,32 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 <div style="display: flex; align-items: center;">
   <img src="/images/UWA.jpg" alt="UWA" style="width: 100px; margin-right: 5px;">
   <div>
-    <p><strong>Sep 2023 - Mar 2024</strong></p>
-    <p>Joint Ph.D.</p>
-    <p>The University of Western Australia (UWA), Australia</p>
-    <p>Research interests: Computer Vision, Information Security</p>
-    <p>Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
+    <p><strong>The University of Western Australia (UWA) (2023.09-2024.03)</strong></p>
+    Joint Ph.D.<br>
+    The University of Western Australia (UWA), Australia<br>
+    Research interests: Computer Vision, Information Security<br>
+    Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="/images/dmu.jpg" alt="DMU" style="width: 100px; margin-right: 5px;">
   <div>
-    <p><strong>Sep 2018 - July 2021</strong></p>
-    <p>Master, Information Science and Technology College</p>
-    <p>Dalian Maritime University (DMU), China</p>
-    <p>Research interests: Computer Vision, Information Security</p>
-    <p>Advised by: Professor <a href="https://www.webofscience.com/wos/author/record/1501004" target="_blank"><strong>Xingyuan Wang</strong></a></p>
+    <p><strong>Dalian Maritime University (DMU) (2018.09-2021.09)</strong></p>
+    Master, Information Science and Technology College<br>
+    Dalian Maritime University (DMU), China<br>
+    Research interests: Computer Vision, Information Security<br>
+    Advised by: Professor <a href="https://www.webofscience.com/wos/author/record/1501004" target="_blank"><strong>Xingyuan Wang</strong></a></p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="/images/SAU.jpg" alt="SAU" style="width: 100px; margin-right: 5px;">
   <div>
-    <p><strong>Sep 2014 - July 2018</strong></p>
-    <p>Bachelor, School of Sciences</p>
-    <p>Shenyang Aerospace University (SAU), China</p>
-    <p>Major: Mathematics</p>
+    <p><strong>Shenyang Aerospace University (SAU) (2014.09-2018.09)</strong></p>
+    Bachelor, School of Sciences<br>
+    Shenyang Aerospace University (SAU), China<br>
+    Major: Mathematics</p>
   </div>
 </div>
 
