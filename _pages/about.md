@@ -23,7 +23,7 @@ Advised by: **Professor Xianglong Tang and Rui Wu**
 Joint Ph.D  
 The University of Western Australia (UWA), Australia  
 Research interests: Computer Vision, Information Security  
-Advised by: **[Professor Herbert Ho Ching Iu (IEEE Fellow)](https://research-repository.uwa.edu.au/en/persons/ho-ching-iu)**  
+Advised by: Professor **[Herbert Ho Ching Iu](https://research-repository.uwa.edu.au/en/persons/ho-ching-iu)** (IEEE Fellow) 
 
 ### **Sep 2018 - July 2021**  
 Master, Information Science and Technology College  
