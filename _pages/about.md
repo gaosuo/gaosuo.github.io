@@ -37,6 +37,59 @@ Shenyang Aerospace University (SAU), China
 Major: Mathematics
 
 ## Publication
+### 2025
+- **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang, "A 3D Memristive Cubic Map with Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, 2025.
+- **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao, "A Parallel Color Image Encryption Algorithm Based on a 2D Logistic-Rulkov Neuron Map," **_IEEE Internet of Things Journal_**, 2025.
+
+### 2024
+- Fang Yin, Ao Li, Chunyan Lv, Rui Wu, **_Suo Gao_**, "A new image encryption algorithm with feedback key mechanism using two-dimensional dual discrete quadratic chaotic map," **_Nonlinear Dynamics_**, Vol. 112, No. 22, pp. 20417–20435, 2024.
+- **_Suo Gao_**, Jiafeng Liu, Herbert Ho-Ching Iu, Ugur Erkan, Shuang Zhou, Rui Wu, Xianglong Tang, "Development of a video encryption algorithm for critical areas using 2D extended Schaffer function map and neural networks," **_Applied Mathematical Modelling_**, Vol. 134, pp. 520–537, 2024.
+- Ugur Erkan, Abdurrahim Toktas, Samet Memis, Feyza Toktas, Qiang Lai, Heping Wen, **_Suo Gao_**, "OSMRD-IE: octal-based shuffling and multi-layer rotational diffusing image encryption using 2D hybrid Michalewicz-Ackley map," **_IEEE Internet of Things Journal_**, 2024.
+- **_Suo Gao_**, Rui Wu, Songbo Liu, Ugur Erkan, Abdurrahim Toktas, Jiafeng Liu, Xianglong Tang, "MSLID-TCN: multi-stage linear-index dilated temporal convolutional network for temporal action segmentation," **_International Journal of Machine Learning and Cybernetics_**, pp. 1–15, 2024.
+- **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Jun Mou, Abdurrahim Toktas, Rui Wu, Xianglong Tang, "Design, dynamical analysis, and hardware implementation of a novel memcapacitive hyperchaotic logistic map," **_IEEE Internet of Things Journal_**, 2024.
+- **_Suo Gao_**, Herbert Ho-Ching Iu, Jun Mou, Ugur Erkan, Jiafeng Liu, Rui Wu, Xianglong Tang, "Temporal action segmentation for video encryption," **_Chaos, Solitons & Fractals_**, Vol. 183, p. 114958, 2024.
+- **_Suo Gao_**, Herbert Ho-Ching Iu, Mengjiao Wang, Donghua Jiang, Ahmed A. Abd El-Latif, Rui Wu, Xianglong Tang, "Design, hardware implementation, and application in video encryption of the 2D memristive cubic map," **_IEEE Internet of Things Journal_**, 2024.
+- Omer Kocak, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**, "PSO-based image encryption scheme using modular integrated logistic exponential map," **_Expert Systems with Applications_**, Vol. 237, p. 121452, 2024.
+- Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**, Chanil Pak, "A robust bit-level image encryption based on Bessel map," **_Applied Mathematics and Computation_**, Vol. 462, p. 128340, 2024.
+- Enver Akbacak, Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**, "MLMQ-IR: Multi-label multi-query image retrieval based on the variance of Hamming distance," **_Knowledge-Based Systems_**, Vol. 283, p. 111193, 2024.
+
+### 2023
+- Rui Wu, **_Suo Gao_**, Herbert Ho-Ching Iu, Shuang Zhou, Ugur Erkan, Abdurrahim Toktas, Xianglong Tang, "Securing dual-channel audio communication with a 2-D infinite collapse and logistic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 6, pp. 10214–10223, 2023.
+- **_Suo Gao_**, Songbo Liu, Xingyuan Wang, Rui Wu, Jin Wang, Qi Li, Xianglong Tang, "New image encryption algorithm based on hyperchaotic 3D-IHAL and a hybrid cryptosystem," **_Applied Intelligence_**, Vol. 53, No. 22, pp. 27826–27843, 2023.
+- Qi Li, Bin Ma, Xiaoyu Wang, Chunpeng Wang, **_Suo Gao_**, "Image steganography in color conversion," **_IEEE Transactions on Circuits and Systems II: Express Briefs_**, Vol. 71, No. 1, pp. 106–110, 2023.
+- **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Xianglong Tang, "EFR-CSTP: Encryption for face recognition based on the chaos and semi-tensor product theory," **_Information Sciences_**, Vol. 621, pp. 766–781, 2023.
+- **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Chunpeng Wang, Xianglong Tang, "Asynchronous updating Boolean network encryption algorithm," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 33, No. 8, pp. 4388–4400, 2023.
+
+### 2022
+- Qi Li, Chunpeng Wang, Xiaoyu Wang, Jian Li, Zhiqiu Xia, **_Suo Gao_**, Bin Ma, "基于残差学习的新型不可感知水印攻击方法," **_软件学报_**, Vol. 34, No. 9, pp. 4351–4361, 2022.
+- Rui Wu, **_Suo Gao_**, Xingyuan Wang, Songbo Liu, Qi Li, Ugur Erkan, Xianglong Tang, "AEA-NCS: An audio encryption algorithm based on a nested chaotic system," **_Chaos, Solitons & Fractals_**, Vol. 165, p. 112770, 2022.
+- Shuang Zhou, Xingyuan Wang, Yingqian Zhang, Bin Ge, Mingxu Wang, **_Suo Gao_**, "A novel image encryption cryptosystem based on true random numbers and chaotic systems," **_Multimedia Systems_**, pp. 1–18, 2022.
+
+### 2021
+- Qi Li, Xingyuan Wang, Bin Ma, Xiaoyu Wang, Chunpeng Wang, **_Suo Gao_**, Yunqing Shi, "Concealed attack for robust watermarking based on generative model and perceptual loss," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 32, No. 8, pp. 5695–5706, 2021.
+
+Li, Qi, Wang, Xingyuan, Wang, He, Ye, Xiaolin, Zhou, Shuang, **_Suo Gao_**, Shi, Yunqing, "A secure image protection algorithm by steganography and encryption using the 2D-TSCC," **_Chinese Physics B_**, Vol. 30, No. 11, p. 110501, 2021.
+
+Wang, Xingyuan, **_Suo Gao_**, "A chaotic image encryption algorithm based on a counting system and the semi-tensor product," **_Multimedia Tools and Applications_**, Vol. 80, No. 7, pp. 10301–10322, 2021.
+
+Wang, Xingyuan, **_Suo Gao_**, Ye, Xiaolin, Zhou, Shuang, Wang, Mingxu, "A new image encryption algorithm with cantor diagonal scrambling based on the PUMCML system," **_International Journal of Bifurcation and Chaos_**, Vol. 31, No. 01, p. 2150003, 2021.
+
+Wang, Mingxu, Wang, Xingyuan, Wang, Chunpeng, Xia, Zhiqiu, Zhao, Hongyu, **_Suo Gao_**, Zhou, Shuang, Yao, Nianmin, "Spatiotemporal chaos in cross coupled map lattice with dynamic coupling coefficient and its application in bit-level color image encryption," **_Chaos, Solitons & Fractals_**, Vol. 139, p. 110028, 2020.
+
+Wang, Xingyuan, **_Suo Gao_**, "Image encryption algorithm based on the matrix semi-tensor product with a compound secret key produced by a Boolean network," **_Information Sciences_**, Vol. 539, pp. 195–214, 2020.
+
+Ye, Xiaolin, Wang, Xingyuan, **_Suo Gao_**, Mou, Jun, Wang, Zhisen, "A new random diffusion algorithm based on the multi-scroll Chua's chaotic circuit system," **_Optics and Lasers in Engineering_**, Vol. 127, p. 105905, 2020.
+
+Wang, Xingyuan, **_Suo Gao_**, "Image encryption algorithm for synchronously updating Boolean networks based on matrix semi-tensor product theory," **_Information Sciences_**, Vol. 507, pp. 16–36, 2020.
+
+Ye, Xiaolin, Wang, Xingyuan, **_Suo Gao_**, Mou, Jun, Wang, Zhisen, Yang, Feifei, "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, pp. 1489–1506, 2020.
+
+Wang, Xingyuan, **_Suo Gao_**, "Application of matrix semi-tensor product in chaotic image encryption," **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
+
+Wang, Xingyuan, **_Suo Gao_**, Yu, Longjiao, Sun, Yuming, Sun, Huaihuai, "Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion," **_IEEE Access_**, Vol. 7, pp. 103662–103677, 2019.
+
+
+
 [32]@article{gao20253d,
   title={A 3D Memristive Cubic Map with Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption},
   author={Gao, Suo and Iu, Herbert Ho-Ching and Erkan, Ugur and Simsek, Cemaleddin and Toktas, Abdurrahim and Cao, Yinghong and Wu, Rui and Mou, Jun and Li, Qi and Wang, Chunpeng},
@@ -345,7 +398,9 @@ Major: Mathematics
   publisher={Elsevier}
 }
 
-[1] @article{wang2019chaotic,
+[1] Wang, Xingyuan and Gao, Suo and Yu, Longjiao and Sun, Yuming and Sun, Huaihuai
+
+@article{wang2019chaotic,
   title={Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion},
   author={Wang, Xingyuan and Gao, Suo and Yu, Longjiao and Sun, Yuming and Sun, Huaihuai},
   journal={IEEE Access},
