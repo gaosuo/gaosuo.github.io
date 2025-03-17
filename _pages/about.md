@@ -21,7 +21,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh" target="_blank"><strong>Xianglong Tang</strong></a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh" target="_blank"><strong>Rui Wu</strong></a></p>
   </div>
-</div><br><br>
+</div><br>
 
 
 <div style="display: flex; align-items: center;">
@@ -33,7 +33,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
   </div>
-</div><br><br>
+</div><br>
 
 
 <div style="display: flex; align-items: center;">
@@ -45,7 +45,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
     Research interests: Computer Vision, Information Security<br>
     Advised by: Professor <a href="https://www.webofscience.com/wos/author/record/1501004" target="_blank"><strong>Xingyuan Wang</strong></a></p>
   </div>
-</div><br><br>
+</div><br>
 
 
 <div style="display: flex; align-items: center;">
@@ -56,7 +56,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
     Shenyang Aerospace University (SAU), China<br>
     Major: Mathematics</p>
   </div>
-</div><br><br>
+</div><br>
 
 ## Publication
 ### 2025
