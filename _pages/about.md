@@ -36,14 +36,18 @@ Bachelor, School of Sciences
 Shenyang Aerospace University (SAU), China  
 Major: Mathematics
 
-Getting started
+PUBLICATIO
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[1] Gao S, Iu H H C, Erkan U, et al. A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption. IEEE Transactions on Circuits and Systems for Video Technology, 2025, doi: 10.1109/TCSVT.2025.3545868.
+[2] Gao S, Zhang Z, Iu H H C, et al. A parallel color image encryption algorithm based on a 2D logistic-rulkov neuron map. IEEE Internet of Things Journal, 2025, doi: 10.1109/JIOT.2025.3540097.
+[3] Gao S, Liu J, Iu H H C, et al. Development of a video encryption algorithm for critical areas using 2D extended Schaffer function map and neural networks. Applied Mathematical Modelling, 2024, 134: 520-537.
+[4] Gao S, Iu H H C, Erkan U, et al. Design, dynamical analysis, and hardware implementation of a novel memcapacitive hyperchaotic logistic map. IEEE Internet of Things Journal, 2024, 11(18): 30368-30375.
+[5] Gao S, Iu H H C, Mou J, et al. Temporal action segmentation for video encryption. Chaos, Solitons & Fractals, 2024, 183: 114958.
+[6] Gao S, Iu H H C, Wang M, et al. Design, hardware implementation, and application in video encryption of the 2D memristive cubic map. IEEE Internet of Things Journal, 2024, 11(12): 21807-21815. (ESI Highly Cited Papers)
+[7] Gao S, Liu S, Wang X, et al. New image encryption algorithm based on hyperchaotic 3D-IHAL and a hybrid cryptosystem. Applied Intelligence, 2023, 53(22): 27826-27843.
+[8] Gao S, Wu R, Wang X, et al. EFR-CSTP: Encryption for face recognition based on the chaos and semi-tensor product theory. Information Sciences, 2023, 621: 766-781.
+[9] Gao S, Wu R, Wang X, et al. Asynchronous updating Boolean network encryption algorithm. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(8): 4388-4400. (ESI Highly Cited Papers)
+[10] Gao S, Wu R, Wang X, et al. A 3D model encryption scheme based on a cascaded chaotic system[J]. Signal Processing, 2023, 202: 108745. (ESI Highly Cited Papers)
 
 Site-wide configuration
 ------
