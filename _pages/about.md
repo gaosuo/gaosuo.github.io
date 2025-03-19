@@ -135,7 +135,8 @@ Academic Activities
 - Reviewer of IEEE Transactions on Circuits and Systems II: Express Briefs
 - Reviewer of IEEE Transactions on Cybernetics
 - Reviewer of IEEE Transactions on Information Forensics & Security
-- Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13)
+- Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
+- Special Issue Editors: [Entropy][https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28] (Q2)
 
 
 Awards & Honours
