@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers, with more than 2,100 citations. Notably, 10 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists.  
+Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers, with more than 2,200 citations. Notably, 10 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists.  
 
 [WOS Author Profile](https://webofscience.clarivate.cn/wos/author/record/3826940)
 
@@ -73,7 +73,7 @@ Experience
 
 ## Publication
 ### 2025
-- [33] Cemaleddin Simsek, Ugur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. Hexadecimal permutation and 2D cumulative diffusion image encryption using hyperchaotic sinusoidal exponential memristive system. **_Nonlinear Dynamics_**, doi: 10.1007/s11071-025-11001-w, 2025.
+- [33] Cemaleddin Simsek, Ugur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. Hexadecimal permutation and 2D cumulative diffusion image encryption using hyperchaotic sinusoidal exponential memristive system. **_Nonlinear Dynamics_**, Vol. 113, pp. 17177–17208, 2025.
 - [32] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D Memristive Cubic Map with Dual Discrete Memristors: Design, Implementation, and Application in Image Encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
 - [31] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A Parallel Color Image Encryption Algorithm Based on a 2D Logistic-Rulkov Neuron Map," **_IEEE Internet of Things Journal_**, doi: 10.1109/JIOT.2025.3540097, 2025.
 - [30] **_Suo Gao_**, Rui Wu, Songbo Liu, Ugur Erkan, Abdurrahim Toktas, Jiafeng Liu, Xianglong Tang. "MSLID-TCN: multi-stage linear-index dilated temporal convolutional network for temporal action segmentation," **_International Journal of Machine Learning and Cybernetics_**, Vol. 16, No. 1, pp. 567-581, 2025.
