@@ -160,6 +160,6 @@ Awards & Honours
 
 Member
 ------
-IEEE member
-Member of the Chinese Cryptography Society
-Member of the Special Committee of the Chinese Society of Image and Graphics
+- IEEE member
+- Member of the Chinese Cryptography Society
+- Member of the Special Committee of the Chinese Society of Image and Graphics
