@@ -73,10 +73,10 @@ Experience
 
 ## Publication
 ### 2025
-- [33] Cemaleddin Simsek, Ugur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. Hexadecimal permutation and 2D cumulative diffusion image encryption using hyperchaotic sinusoidal exponential memristive system. **_Nonlinear Dynamics_**, Vol. 113, pp. 17177–17208, 2025.
-- [32] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
-- [31] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A parallel color image encryption algorithm based on a 2D Logistic-Rulkov neuron map," **_IEEE Internet of Things Journal_**, Vol. 12, No. 11, pp. 18115–18124, 2025.
-- [30] **_Suo Gao_**, Rui Wu, Songbo Liu, Ugur Erkan, Abdurrahim Toktas, Jiafeng Liu, Xianglong Tang. "MSLID-TCN: multi-stage linear-index dilated temporal convolutional network for temporal action segmentation," **_International Journal of Machine Learning and Cybernetics_**, Vol. 16, No. 1, pp. 567-581, 2025.
+- [33] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
+- [32] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A parallel color image encryption algorithm based on a 2D Logistic-Rulkov neuron map," **_IEEE Internet of Things Journal_**, Vol. 12, No. 11, pp. 18115–18124, 2025.
+- [31] **_Suo Gao_**, Rui Wu, Songbo Liu, Ugur Erkan, Abdurrahim Toktas, Jiafeng Liu, Xianglong Tang. "MSLID-TCN: multi-stage linear-index dilated temporal convolutional network for temporal action segmentation," **_International Journal of Machine Learning and Cybernetics_**, Vol. 16, No. 1, pp. 567-581, 2025.
+- [30] Cemaleddin Simsek, Ugur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. Hexadecimal permutation and 2D cumulative diffusion image encryption using hyperchaotic sinusoidal exponential memristive system. **_Nonlinear Dynamics_**, Vol. 113, pp. 17177–17208, 2025.
 ### 2024
 - [29] **_Suo Gao_**, Herbert Ho-Ching Iu, Mengjiao Wang, Donghua Jiang, Ahmed A. Abd El-Latif, Rui Wu, Xianglong Tang. "Design, hardware implementation, and application in video encryption of the 2D memristive cubic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 12, pp. 21807-21815, 2024.
 - [28] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Jun Mou, Abdurrahim Toktas, Rui Wu, Xianglong Tang. "Design, dynamical analysis, and hardware implementation of a novel memcapacitive hyperchaotic logistic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 18, pp. 30368-30375, 2024.
@@ -137,8 +137,10 @@ Academic Activities
 - Reviewer of IEEE Transactions on Information Forensics & Security
 
 **Guest Editor**
-- Special Issue Editors: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
-- Special Issue Editors: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q2)
+- Special Issue Editor: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
+- Special Issue Editor: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q2)
+- Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q2)
+- Special Issue Editor: [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/N2HY9KRNB3)(Q2)
 
 
 Awards & Honours
