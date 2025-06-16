@@ -145,13 +145,21 @@ Academic Activities
 
 Awards & Honours
 ------
-- World's Top 2% Scientists (2024)
-- Doctoral National Scholarship (2023)
-- Outstanding Communist Youth League Member of Harbin Institute of Technology (2023)
-- Outstanding Student of Harbin Institute of Technology (2023)
-- Third Prize for Scientific and Technological Progress from Shandong IoT Association (2023)
-- First Prize for Outstanding Natural Science Academic Achievements in Jinan (2023)
-- Excellent Master's Degree Thesis in Liaoning Province (2021)
-- Outstanding Graduate in Liaoning Province (2021)
-- Master's National Scholarship (2020)
+- 11. High Level Personnel in Dalian - Young Talents (2025)
+- 10. World's Top 2% Scientists (2024)
+- 9. Doctoral National Scholarship (2023)
+- 8. Outstanding Communist Youth League Member of Harbin Institute of Technology (2023)
+- 7. Outstanding Student of Harbin Institute of Technology (2023)
+- 6. Third Prize for Scientific and Technological Progress from Shandong IoT Association (2023)
+- 5. First Prize for Outstanding Natural Science Academic Achievements in Jinan (2023)
+- 4. Excellent Master's Degree Thesis in Liaoning Province (2021)
+- 3. Outstanding Graduate in Liaoning Province (2021)
+- 2. Master's National Scholarship (2020)
+- 1. Master's National Scholarship (2020)
 
+
+Member
+------
+3. IEEE member
+2. Member of the Chinese Cryptography Society
+1. Member of the Special Committee of the Chinese Society of Image and Graphics
