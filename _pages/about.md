@@ -138,9 +138,9 @@ Academic Activities
 
 **Guest Editor**
 - Special Issue Editor: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
-- Special Issue Editor: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q2)
-- Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q2)
-- Special Issue Editor: [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/N2HY9KRNB3)(Q2)
+- Special Issue Editor: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q1)
+- Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q1)
+- Special Issue Editor: [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/N2HY9KRNB3)(Q1)
 
 
 Awards & Honours
