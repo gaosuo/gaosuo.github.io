@@ -155,7 +155,6 @@ Awards & Honours
 -  Excellent Master's Degree Thesis in Liaoning Province (2021)
 -  Outstanding Graduate in Liaoning Province (2021)
 -  Master's National Scholarship (2020)
--  Master's National Scholarship (2020)
 
 
 Member
