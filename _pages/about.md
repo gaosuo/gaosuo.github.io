@@ -73,8 +73,9 @@ Experience
 
 ## Publication
 ### 2025
-- [33] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
-- [32] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A parallel color image encryption algorithm based on a 2D Logistic-Rulkov neuron map," **_IEEE Internet of Things Journal_**, Vol. 12, No. 11, pp. 18115–18124, 2025.
+- [34] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, doi: 10.1109/TCSVT.2025.3545868, 2025.
+- [33] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A parallel color image encryption algorithm based on a 2D Logistic-Rulkov neuron map," **_IEEE Internet of Things Journal_**, Vol. 12, No. 11, pp. 18115–18124, 2025.
+- [32] **_Suo Gao_**, Siqi Ding, Herbert Ho-Ching Iu, Ugur Erkan, Abdurrahim Toktas, Cemaleddin Simsek, Rui Wu, Xianying Xu, Yinghong Cao, Jun Mou. "A three-dimensional memristor-based hyperchaotic map for pseudorandom number generation and multi-image encryption," **_Chaos_**, doi: 10.1063/5.0270220.
 - [31] **_Suo Gao_**, Rui Wu, Songbo Liu, Ugur Erkan, Abdurrahim Toktas, Jiafeng Liu, Xianglong Tang. "MSLID-TCN: multi-stage linear-index dilated temporal convolutional network for temporal action segmentation," **_International Journal of Machine Learning and Cybernetics_**, Vol. 16, No. 1, pp. 567-581, 2025.
 - [30] Cemaleddin Simsek, Ugur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. Hexadecimal permutation and 2D cumulative diffusion image encryption using hyperchaotic sinusoidal exponential memristive system. **_Nonlinear Dynamics_**, Vol. 113, pp. 17177–17208, 2025.
 ### 2024
