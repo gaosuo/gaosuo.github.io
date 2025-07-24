@@ -9,7 +9,7 @@ redirect_from:
 
 Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 30 SCI-indexed papers. Notably, 10 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024, he was listed among the World's Top 2% Scientists. 
 
-Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a>
+Real-time data: <a href='https://scholar.google.com/citations?user=r97kVgoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=r97kVgoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a>
 
 
 
