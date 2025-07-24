@@ -11,7 +11,7 @@ Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technol
 
 Real-time data: <a href='https://scholar.google.com/citations?user=r97kVgoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>  <a href='https://scholar.google.com/citations?user=r97kVgoAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=H-index"></a>
 
-
+[![](https://img.shields.io/badge/GoogleScholar-Wenjie_Du-grey?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=j9qvUg0AAAAJ&hl=en) &ensp;
 
 [WOS Author Profile](https://webofscience.clarivate.cn/wos/author/record/3826940)
 
