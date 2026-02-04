@@ -154,9 +154,10 @@ Experience
 Academic Activities
 ------
 **Editorial board member**
-- Nonlinear Science and Control Engineering
-- Chaos and Fractals
-  
+- Chaos Theory and Applications(https://dergipark.org.tr/en/pub/chaos)
+- Nonlinear Science and Control Engineering(https://www.accscience.com/journal/NSCE)
+- Chaos and Fractals(https://journals.adbascientific.com/chf/about)
+
 **Served as a reviewer for over 70 SCI journals**
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
 - Reviewer of IEEE Transactions on Dependable and Secure Computing
@@ -169,6 +170,7 @@ Academic Activities
 - Reviewer of IEEE Transactions on Information Forensics & Security
 
 **Guest Editor**
+- Special Issue Editor: [Computers](https://susy.mdpi.com/academic-si/SXBhVVpqczJUT2lqYlkyYkRjUkRKdz09) (Q1)
 - Special Issue Editor: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
 - Special Issue Editor: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q1)
 - Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q1)
@@ -177,6 +179,7 @@ Academic Activities
 
 Awards & Honours
 ------
+-  Dalian Science and Technology Talent Innovation Support Policy Implementation Plan Project – Young Science and Technology Star
 -  World's Top 2% Scientists (2025)
 -  High Level Personnel in Dalian - Young Talents (2025)
 -  World's Top 2% Scientists (2024)
