@@ -158,6 +158,13 @@ Academic Activities
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
 - [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
 
+**Guest Editor**
+- Special Issue Editor: [Computers](https://susy.mdpi.com/academic-si/SXBhVVpqczJUT2lqYlkyYkRjUkRKdz09) (Q1)
+- Special Issue Editor: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
+- Special Issue Editor: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q1)
+- Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q1)
+- Special Issue Editor: [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/N2HY9KRNB3)(Q1)
+
 **Served as a reviewer for over 70 SCI journals**
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
 - Reviewer of IEEE Transactions on Dependable and Secure Computing
@@ -168,15 +175,7 @@ Academic Activities
 - Reviewer of IEEE Transactions on Circuits and Systems II: Express Briefs
 - Reviewer of IEEE Transactions on Cybernetics
 - Reviewer of IEEE Transactions on Information Forensics & Security
-
-**Guest Editor**
-- Special Issue Editor: [Computers](https://susy.mdpi.com/academic-si/SXBhVVpqczJUT2lqYlkyYkRjUkRKdz09) (Q1)
-- Special Issue Editor: [Advances in Differential Equations and Control Processes](https://ojs.acad-pub.com/index.php/ADECP/SI/13) (Q4)
-- Special Issue Editor: [Entropy](https://www.mdpi.com/journal/entropy/special_issues/GT3RNY5B28)(Q1)
-- Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q1)
-- Special Issue Editor: [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/N2HY9KRNB3)(Q1)
-
-
+  
 Awards & Honours
 ------
 -  Dalian Science and Technology Talent Innovation Support Policy Implementation Plan Project – Young Science and Technology Star
