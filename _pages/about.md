@@ -154,9 +154,9 @@ Experience
 Academic Activities
 ------
 **Editorial board member**
-- Chaos Theory and Applications(https://dergipark.org.tr/en/pub/chaos)
-- Nonlinear Science and Control Engineering(https://www.accscience.com/journal/NSCE)
-- Chaos and Fractals(https://journals.adbascientific.com/chf/about)
+- [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) (Q1)
+- [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
+- [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
 
 **Served as a reviewer for over 70 SCI journals**
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
