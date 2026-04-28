@@ -142,7 +142,7 @@ Experience
 - [6] Xingyuan Wang, **_Suo Gao_**. "Image encryption algorithm based on the matrix semi-tensor product with a compound secret key produced by a Boolean network," **_Information Sciences_**, Vol. 539, pp. 195–214, 2020.  
 - [5] Mingxu Wang, Xingyuan Wang, Chunpeng Wang, Zhiqiu Xia, Hongyu Zhao, **_Suo Gao_**, Shuang Zhou, Nianmin Yao. "Spatiotemporal chaos in cross coupled map lattice with dynamic coupling coefficient and its application in bit-level color image encryption," **_Chaos, Solitons & Fractals_**, Vol. 139, p. 110028, 2020.
 - [4] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang. "A new random diffusion algorithm based on the multi-scroll Chua's chaotic circuit system," **_Optics and Lasers in Engineering_**, Vol. 127, p. 105905, 2020.  
-- [3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, Feifei Yang. "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, No. 2, pp. 1489–1506, 2020.    ![ESI 1%](https://img.shields.io/badge/ESI-1%25%20Highly%20Cited-red)
+- [3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, Feifei Yang. "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, No. 2, pp. 1489–1506, 2020.![ESI](https://img.shields.io/badge/ESI-Top%201%25%20Highly%20Cited-red)
 ### 2019
     
 - [2] Xingyuan Wang, **_Suo Gao_**. "Application of matrix semi-tensor product in chaotic image encryption,\" **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
