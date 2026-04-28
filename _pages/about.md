@@ -79,8 +79,8 @@ Experience
 ## Publication
 ### 2026
 - [57] Jiaqi Liu, Xian-Ying Xu, **_Suo Gao_**, Junxin Chen, Jun Mou. "Lightweight Video Secondary-encryption Scheme Based on YOLOv11 and a Discrete Model of Bi-Neuron HNN," **_ACM Transactions on Multimedia Computing, Communications and Applications_**, 2025.
-- [56] Yichen Bi, Jun Mou, Herbert Ho-Ching Iu, Nanrun Zhou, Santo Banerjee, **_Suo Gao_** *. "Dynamics analysis and DSP Implementation of the Rulkov Neuron Model with Memristive Synaptic Crosstalk," **_Chinese Physics B_**, Vol. 35, pp. 010504, 2026
-- [55] Yang Xu, **_Suo Gao_** <sup>✉️</sup>, Xianying Xu, Santo Banerjee, Jun Mou, Yinghong Cao. "Neuronal Dynamics and Pain Perception Modeling Based on the SMM–HR Model," **_Chinese Journal of Physics_**, Vol. 100, pp. 247-266, 2026.
+- [56] Yichen Bi, Jun Mou, Herbert Ho-Ching Iu, Nanrun Zhou, Santo Banerjee, **_Suo Gao_** . "Dynamics analysis and DSP Implementation of the Rulkov Neuron Model with Memristive Synaptic Crosstalk," **_Chinese Physics B_**, Vol. 35, pp. 010504, 2026
+- [55] Yang Xu, **_Suo Gao_***, Xianying Xu, Santo Banerjee, Jun Mou, Yinghong Cao. "Neuronal Dynamics and Pain Perception Modeling Based on the SMM–HR Model," **_Chinese Journal of Physics_**, Vol. 100, pp. 247-266, 2026.
 - [54] Linian Wang, Xianying Xu, **_Suo Gao_**, Jun Mou. "Hybrid medical image self-embedding watermarking encryption scheme based on strong S-box," **_Chinese Physics B_**, 2026, doi.org/10.1088/1674-1056/ae1c2e.
 - [53] Yan Liu, Kaihua Wang, Xianying Xu, Yinghong Cao, **_Suo Gao_**, Jun Mou. "Medical Image Watermarking Encryption Algorithm Based on Spiral Transform and Shift Registers," **_Chinese Physics B_**, 2026, doi.org/10.1088/1674-1056/ae15f8.
 - [52] Chenglong Liu, Xianying Xu, Jun Mou, **_Suo Gao_**, Yinghong Cao. "Gift box ribbon-inspired multi-image and audio integrated encryption algorithm based on a hyperchaotic memristive map," **_The European Physical Journal Plus_**, Vol. 141, No. 1, p. 34, 2026.
