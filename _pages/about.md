@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 50 SCI indexed papers and more than 3200 citations. Notably, 10 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024 and 2025, he was listed among the World's Top 2% Scientists. 
+Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 50 SCI indexed papers and more than 3500 citations. Notably, 10 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024 and 2025, he was listed among the World's Top 2% Scientists. 
 
 
 
@@ -78,7 +78,7 @@ Experience
 
 ## Publication
 ### 2026
-- [57 Jiaqi Liu, Xian-Ying Xu, **_Suo Gao_**, Junxin Chen, Jun Mou. "Lightweight Video Secondary-encryption Scheme Based on YOLOv11 and a Discrete Model of Bi-Neuron HNN," **_ACM Transactions on Multimedia Computing, Communications and Applications_**, 2025.
+- [57] Jiaqi Liu, Xian-Ying Xu, **_Suo Gao_**, Junxin Chen, Jun Mou. "Lightweight Video Secondary-encryption Scheme Based on YOLOv11 and a Discrete Model of Bi-Neuron HNN," **_ACM Transactions on Multimedia Computing, Communications and Applications_**, 2025.
 - [56] Yichen Bi, Jun Mou, Herbert Ho-Ching Iu, Nanrun Zhou, Santo Banerjee, **_Suo Gao_** <sup>✉️</sup>. "Dynamics analysis and DSP Implementation of the Rulkov Neuron Model with Memristive Synaptic Crosstalk," **_Chinese Physics B_**, Vol. 35, pp. 010504, 2026
 - [55] Yang Xu, **_Suo Gao_** <sup>✉️</sup>, Xianying Xu, Santo Banerjee, Jun Mou, Yinghong Cao. "Neuronal Dynamics and Pain Perception Modeling Based on the SMM–HR Model," **_Chinese Journal of Physics_**, Vol. 100, pp. 247-266, 2026.
 - [54] Linian Wang, Xianying Xu, **_Suo Gao_**, Jun Mou. "Hybrid medical image self-embedding watermarking encryption scheme based on strong S-box," **_Chinese Physics B_**, 2026, doi.org/10.1088/1674-1056/ae1c2e.
