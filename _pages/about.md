@@ -144,8 +144,7 @@ Experience
 - [4] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang. "A new random diffusion algorithm based on the multi-scroll Chua's chaotic circuit system," **_Optics and Lasers in Engineering_**, Vol. 127, p. 105905, 2020. 
 - [3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, Feifei Yang. "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, No. 2, pp. 1489–1506, 2020.
   
-- 重要说明：这个地方有问题
-- 注意：参数需要重新设置
+- 🔥 Critical bug found
 ### 2019
     
 - [2] Xingyuan Wang, **_Suo Gao_**. "Application of matrix semi-tensor product in chaotic image encryption,\" **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
