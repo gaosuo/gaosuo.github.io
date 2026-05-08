@@ -76,7 +76,7 @@ Experience
   </div>
 </div>
 
-## Publication
+## Publications
 ### 2026
 - [69] **_Suo Gao_**, Fan Shi, Xianying Xu, Junxin Chen, Herbert Ho-Ching Iu, Yinghong Cao. "A Memristor-Based Neural Network Circuit with Classical Conditioning and Fear Generalization," **_IEEE Transactions on Consumer Electronics_**, 2026, doi.org/10.1109/TCE.2026.3663359.
 - [68] **_Suo Gao_**, Yueqi Song, Yinghong Cao, Herbert Ho-Ching Iu, Lei Qin, Yushu Zhang, Jun Mou. "Biologically Plausible Memristive Decision-Making Circuit for Adaptive Control in Industrial Autonomous Navigation," **_IEEE Transactions on Industrial Informatics_**, 2026, doi.org/10.1109/TII.2026.3668794.
