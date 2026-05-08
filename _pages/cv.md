@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+## Education
 <div style="display: flex; align-items: center;">
   <img src="/images/HIT.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
   <div>
