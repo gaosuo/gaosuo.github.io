@@ -14,8 +14,8 @@ main:
 - title: "Academic"
     url: /Academic/    
 
-- title: "Teaching"
-   url: /teaching/    
+#- title: "Teaching"
+#   url: /teaching/    
     
   - title: "Awards"
     url: /Awards/
