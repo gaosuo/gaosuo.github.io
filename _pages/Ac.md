@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic"
-permalink: /Academic/
+permalink: /Ac/
 author_profile: true
 redirect_from:
   - /resume
