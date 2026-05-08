@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Education and Experience"
-permalink: /cv/
+title: "Publications"
+permalink: /Pub/
 author_profile: true
 redirect_from:
   - /resume
