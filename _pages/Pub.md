@@ -9,59 +9,88 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-<div style="display: flex; align-items: center;">
-  <img src="/images/HIT.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
-  <div>
-    <p><strong>Harbin Institute of Technology (2021.09-2024.12)</strong><br>
-    Ph.D., School of Computer Science and Technology<br>
-    Harbin Institute of Technology (HIT), China<br>
-    Research interests: Computer Vision, Information Security<br>
-    Advised by: Professor <a href="https://homepage.hit.edu.cn/tangxianglong?lang=zh" target="_blank"><strong>Xianglong Tang</strong></a>, and Associate Professor <a href="https://homepage.hit.edu.cn/wurui?lang=zh" target="_blank"><strong>Rui Wu</strong></a></p>
-  </div>
-</div>
+## Publications
+### 2026
+- [69] **_Suo Gao_**, Fan Shi, Xianying Xu, Junxin Chen, Herbert Ho-Ching Iu, Yinghong Cao. "A Memristor-Based Neural Network Circuit with Classical Conditioning and Fear Generalization," **_IEEE Transactions on Consumer Electronics_**, 2026, doi.org/10.1109/TCE.2026.3663359.
+- [68] **_Suo Gao_**, Yueqi Song, Yinghong Cao, Herbert Ho-Ching Iu, Lei Qin, Yushu Zhang, Jun Mou. "Biologically Plausible Memristive Decision-Making Circuit for Adaptive Control in Industrial Autonomous Navigation," **_IEEE Transactions on Industrial Informatics_**, 2026, doi.org/10.1109/TII.2026.3668794.
+- [67] Guangzheng Wang, **_Suo Gao_***, Herbert Ho-Ching Iu, Nanrun Zhou, Jun Mou. "From unidirectional to grid: Generation and precise control of multi-scroll chaotic attractors," **_Chaos, Solitons & Fractals_**, Vol. 208, pp. 118205, 2026.
+- [66] Xiangcong Wu, **_Suo Gao_***, Herbert Ho-Ching Iu, Junxin Chen, Yushu Zhang, Yinghong Cao, Jun Mou. "Multi-scroll regulation and control of a programmable memristive hopfield neural network with FPGA implementation," **_SCIENCE CHINA Technological Science_**, 2026, doi.org/10.1007/s11431-025-3273-y.
+- [65] Yang Xu, **_Suo Gao_***, Xianying Xu, Santo Banerjee, Jun Mou, Yinghong Cao. "Neuronal Dynamics and Pain Perception Modeling Based on the SMM–HR Model," **_Chinese Journal of Physics_**, Vol. 100, pp. 247-266, 2026.
+- [64] Linian Wang, Xianying Xu, **_Suo Gao_**, Jun Mou. "Hybrid medical image self-embedding watermarking encryption scheme based on strong S-box," **_Chinese Physics B_**, 2026, doi.org/10.1088/1674-1056/ae1c2e.
+- [63] Yiting Lin, Yunan Wei, Donglong Chen, Yupeng Li, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**, Yong Zhang. "Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box," **_ACM Transactions on Multimedia Computing, Communications and Applications_**, 2026, doi.org/10.1145/3808699.
+- [62] Xiyu Ren, Yinghong Cao, Xianying Xu, Xiaodong Liu, **_Suo Gao_**, Fawaz E. Alsaadi, Jun Mou. "Analysis of associative memory models constructed based on memristor-coupled Hopfield neural networks," **_The European Physical Journal Plus_**, Vol. 141, pp. 23, 2026.
+- [61] Siqi Ding, Xinyue Wang, Pengyu Zhu, Ugur Erkan, Abdurrahim Toktas, Qi Li, Jun Mou, **_Suo Gao_**. "SRA: A sine-based reconstruction approach to improve 2D chaotic map performance," **_The European Physical Journal Plus_**, Vol. 141, pp. 182, 2026.
+- [60] Minyuan Cheng, Jiawu Yu, Xianying Xu, Herbert Ho-Ching Iu, Santo Banerjee, Yinghong Cao, **_Suo Gao_**, Jun Mou. "A discrete second-order memristive Aihara neuron with rich firing patterns, multistability, distinct state transitions and hyperchaotic expansion effect," **_Nonlinear Dynamics_**, Vol. 114, pp. 434, 2026.
+- [59] Siqi Ding, Fan Shi, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, **_Suo Gao_**, Jun Mou. "Design of a three-dimensional logistic map and its application to seafood image encryption," **_The Journal of Supercomputing_**, Vol. 82, pp. 225, 2026.
+- [58] Yiting Lin, Yunlong Liao, Wenjun Zeng, Yunan Wei, Donglong Chen, Xiaochen Yuan, Yupeng Li, Ugur Erkan, Abdurrahim Toktas, Chongfu Zhang, Yong Zhang, **_Suo Gao_**. "3D Non-degenerate Hyperchaos: Design, Analysis, and Application in Image Encryption," **_IEEE Transactions on Consumer Electronics_**, 2026, doi.org/10.1109/TCE.2026.3672135.
+- [57] Xinyue Wang, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**. "Semantic-aware image encryption based on YOLOv13 and chaotic systems," **_The European Physical Journal Plus_**, Vol. 141, pp. 285, 2026.
+- [56] Jun Mou, Linlin Tan, **_Suo Gao_**, Junxin Chen, Herbert Ho-Ching Iu, Yushu Zhang. "High-Capacity Private Data Information Protection Library Based on Correlation Generator," **_IEEE Transactions on Dependable and Secure Computing_**, 2026.
+- [55] Jiaqi Liu, Xian-Ying Xu, **_Suo Gao_**, Junxin Chen, Jun Mou. "Lightweight Video Secondary-encryption Scheme Based on YOLOv11 and a Discrete Model of Bi-Neuron HNN," **_ACM Transactions on Multimedia Computing, Communications and Applications_**, 2025.
+- [54] Yichen Bi, Jun Mou, Herbert Ho-Ching Iu, Nanrun Zhou, Santo Banerjee, **_Suo Gao_** . "Dynamics analysis and DSP Implementation of the Rulkov Neuron Model with Memristive Synaptic Crosstalk," **_Chinese Physics B_**, Vol. 35, pp. 010504, 2026
+- [53] Yan Liu, Kaihua Wang, Xianying Xu, Yinghong Cao, **_Suo Gao_**, Jun Mou. "Medical Image Watermarking Encryption Algorithm Based on Spiral Transform and Shift Registers," **_Chinese Physics B_**, 2026, doi.org/10.1088/1674-1056/ae15f8.
+- [52] Chenglong Liu, Xianying Xu, Jun Mou, **_Suo Gao_**, Yinghong Cao. "Gift box ribbon-inspired multi-image and audio integrated encryption algorithm based on a hyperchaotic memristive map," **_The European Physical Journal Plus_**, Vol. 141, No. 1, p. 34, 2026.
+- [51] Yueqi Song, Xiaozhou He, Xianying Xu, Yinghong Cao, Santo Banerjee, **_Suo Gao_**, Jun Mou. "Echolocation-Inspired Memristive Behavioral Decision Circuit," **_Chinese Physics B_**, 2026.
+- [50] Xiyu Ren, Xianying Xu, Xiaodong Liu, Minghui Zhang, Santo Banerjee, **_Suo Gao_**, Jun Mou. "Studying relationships from the perspective of chaos theory," **_Chinese Physics B_**, 2026.
+### 2025
+- [49] **_Suo Gao_**, Zheyi Zhang, Qi Li, Siqi Ding, Herbert Ho-Ching Iu, Yinghong Cao, Xianying Xu, Chunpeng Wang, Jun Mou. "Encrypt a Story: A Video Segment Encryption Method Based on the Discrete Sinusoidal Memristive Rulkov Neuron," **_IEEE Transactions on Dependable and Secure Computing_**, Vol. 22, No. 6, pp. 8011-8024, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [48] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 35, No. 8, pp. 7706-7718, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [47] **_Suo Gao_**, Rui Wu, Herbert Ho-Ching Iu, Ugur Erkan, Yinghong Cao, Qi Li, Abdurrahim Toktas, Jun Mou. "Chaos-based video encryption techniques: A review,"  **_Computer Science Review_**, Vol. 58, p. 100816, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [46] **_Suo Gao_**, Zheyi Zhang, Herbert Ho-Ching Iu, Siqi Ding, Jun Mou, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, Yinghong Cao. "A parallel color image encryption algorithm based on a 2D Logistic-Rulkov neuron map," **_IEEE Internet of Things Journal_**, Vol. 12, No. 11, pp. 18115–18124, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [45] **_Suo Gao_**, Siqi Ding, Herbert Ho-Ching Iu, Ugur Erkan, Abdurrahim Toktas, Cemaleddin Simsek, Rui Wu, Xianying Xu, Yinghong Cao, Jun Mou. "A three-dimensional memristor-based hyperchaotic map for pseudorandom number generation and multi-image encryption," **_Chaos_**, Vol. 35, No. 7, p. 073105, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [44] **_Suo Gao_**, Rui Wu, Songbo Liu, Ugur Erkan, Abdurrahim Toktas, Jiafeng Liu, Xianglong Tang. "MSLID-TCN: Multi-stage linear-index dilated temporal convolutional network for temporal action segmentation," **_International Journal of Machine Learning and Cybernetics_**, Vol. 16, No. 1, pp. 567-581, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [43] Yinghong Cao, Zhaocheng Liu, Herbert Ho-Ching Iu, Junxin Chen, Jun Mou, **_Suo Gao_**. "RegionLock: a lightweight cloud video encryption scheme based on YOLOv8 object detection and adaptive frame multiplexing," **_IEEE Internet of Things Journal_**, Vol. 13, No. 2, pp. 3069–3081, 2025.
+- [42] Xiyu Ren, Xianying Xu, Xiaodong Liu, Yinghong Cao, **_Suo Gao_**, Jun Mou. "Memristor-coupled tabu learning neuron and multi-cavity control of attractors," **_Nonlinear Science and Control Engineering_**, p. 025400014, 2025.
+- [41] Fan Shi, Xianying Xu, Xiaodong Liu, Yinghong Cao, **_Suo Gao_**, Jun Mou. "Complex neuronal dynamics under memristive electromagnetic radiation: Modeling and digital signal processing implementation," **_Nonlinear Science and Control Engineering_**, Vol. 1, No. 2, p. 025400013, 2025.
+- [40] Linlin Tan,  **_Suo Gao_***, Nanrun Zhou, Yinghong Cao, Jun Mou. "Extraction and encryption of facial information for government personnel: STP-CS with Tri-color shuffling scheme," **_Computers and Electrical Engineering_**, Vol. 127, pp. 110624, 2025.
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/UWA.jpg" alt="UWA" style="width: 100px; margin-right: 10px;">
-  <div>
-    <p><strong>The University of Western Australia (2023.09-2024.03)</strong><br>
-    Joint Ph.D.<br>
-    The University of Western Australia (UWA), Australia<br>
-    Research interests: Computer Vision, Information Security<br>
-    Advised by: Professor <a href="https://research-repository.uwa.edu.au/en/persons/ho-ching-iu" target="_blank"><strong>Herbert Ho Ching Iu</strong></a> (IEEE Fellow)</p>
-  </div>
-</div>
+- [38] Pengxuan Li, Kaihua Wang, **_Suo Gao_**, Xianying Xu, Jun Mou. "Encryption scheme for multi-image based on combination of multiple chaotic maps and iterative variation of confusion keystream and mixed diffusion expression," **_Journal of King Saud University Computer and Information Sciences_**, Vol. 37, No. 9, p. 278, 2025.
+- [37] Uğur Erkan, Feyza Toktas, Abdurrahim Toktas, Qiang Lai, Shuang Zhou, Yiting Lin, **_Suo Gao_**. "Multi-layer and multi-directional image encryption algorithm based on hyperchaotic 3D Xin-She Yang map," **_Expert Systems with Applications_**, Vol. 304, p. 130808, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [36] Yueqi Song, **_Suo Gao_**, Xianying Xu. "Discrete Tri-Cycle Memristive Synapse Hopfield Neural Network: Dynamics and Implementations," **_International Journal of Bifurcation and Chaos_**, Vol. 35, pp. 2650019, 2025.
+- [35] Siqi Ding, Ke Meng, Minghui Zhang, Yiting Lin, Chunpeng Wang, Qi Li, **_Suo Gao_**, Jun Mou. "Three-Dimensional Discrete Echo-Memristor Map: Dynamic Analysis and DSP Implementation," **_Mathematics_**, Vol. 13, No. 21, p. 3442, 2025.  
+- [34] Ahmet Y{\i}lmaz, Uğur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. "AHIR: Deep learning-based autoencoder hashing image retrieval," **_Neurocomputing_**, Vol. 671, p. 132639, 2026.
+- [33] Ugur Erkan, Abdurrahim Toktas, Feyza Toktas, Yiting Lin, **_Suo Gao_**. "Hybridization of benchmark functions for a high-performance 1D chaotic map and image encryption application," **_Nonlinear Science and Control Engineering_**, p. 025340010, 2025.  
+- [32] Jun Mou, Chang Cai, **_Suo Gao_**, Nanrun Zhou, Yushu Zhang. "A second-order memristor-based Rulkov neuron: Design, dynamical analysis and application in hierarchical decryption of 3D model," **_IEEE Internet of Things Journal_**, Vol. 12, No. 20, pp. 43470-43479, 2025.
+- [31] Ugur Erkan, Ahmet Yilmaz, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. "Object detection-based autoencoder hashing image retrieval," **_Signal Processing: Image Communication_**, pp. 117384, 2025.
+- [30] Cemaleddin Simsek, Ugur Erkan, Abdurrahim Toktas, Qiang Lai, **_Suo Gao_**. "Hexadecimal permutation and 2D cumulative diffusion image encryption using hyperchaotic sinusoidal exponential memristive system," **_Nonlinear Dynamics_**, Vol. 113, pp. 17177–17208, 2025.
+### 2024
+- [29] **_Suo Gao_**, Herbert Ho-Ching Iu, Mengjiao Wang, Donghua Jiang, Ahmed A. Abd El-Latif, Rui Wu, Xianglong Tang. "Design, hardware implementation, and application in video encryption of the 2D memristive cubic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 12, pp. 21807-21815, 2024. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [28] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Jun Mou, Abdurrahim Toktas, Rui Wu, Xianglong Tang. "Design, dynamical analysis, and hardware implementation of a novel memcapacitive hyperchaotic logistic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 18, pp. 30368-30375, 2024.
+- [27] **_Suo Gao_**, Jiafeng Liu, Herbert Ho-Ching Iu, Ugur Erkan, Shuang Zhou, Rui Wu, Xianglong Tang. "Development of a video encryption algorithm for critical areas using 2D extended Schaffer function map and neural networks," **_Applied Mathematical Modelling_**, Vol. 134, pp. 520–537, 2024. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [26] **_Suo Gao_**, Herbert Ho-Ching Iu, Jun Mou, Ugur Erkan, Jiafeng Liu, Rui Wu, Xianglong Tang. "Temporal action segmentation for video encryption," **_Chaos, Solitons & Fractals_**, Vol. 183, p. 114958, 2024. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [25] Fang Yin, Ao Li, Chunyan Lv, Rui Wu, **_Suo Gao_**. "A new image encryption algorithm with feedback key mechanism using two-dimensional dual discrete quadratic chaotic map," **_Nonlinear Dynamics_**, Vol. 112, No. 22, pp. 20417–20435, 2024.
+- [24] Ugur Erkan, Abdurrahim Toktas, Samet Memis, Feyza Toktas, Qiang Lai, Heping Wen, **_Suo Gao_**. "OSMRD-IE: octal-based shuffling and multi-layer rotational diffusing image encryption using 2D hybrid Michalewicz-Ackley map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 12, pp. 35113-35123, 2024.
+- [23] Omer Kocak, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**. "PSO-based image encryption scheme using modular integrated logistic exponential map," **_Expert Systems with Applications_**, Vol. 237, p. 121452, 2024. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [22] Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**, Chanil Pak. "A robust bit-level image encryption based on Bessel map," **_Applied Mathematics and Computation_**, Vol. 462, p. 128340, 2024. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [21] Enver Akbacak, Abdurrahim Toktas, Ugur Erkan, **_Suo Gao_**. "MLMQ-IR: Multi-label multi-query image retrieval based on the variance of Hamming distance," **_Knowledge-Based Systems_**, Vol. 283, p. 111193, 2024.
+- [20] Qi Li, Bin Ma, Xiaoyu Wang, Chunpeng Wang, **_Suo Gao_**. "Image steganography in color conversion," **_IEEE Transactions on Circuits and Systems II: Express Briefs_**, Vol. 71, No. 1, pp. 106–110, 2024.
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/dmu.jpg" alt="DMU" style="width: 100px; margin-right: 10px;">
-  <div>
-    <p><strong>Dalian Maritime University (2018.09-2021.09)</strong><br>
-    Master, Information Science and Technology College<br>
-    Dalian Maritime University (DMU), China<br>
-    Research interests: Computer Vision, Information Security<br>
-    Advised by: Professor <a href="https://www.webofscience.com/wos/author/record/1501004" target="_blank"><strong>Xingyuan Wang</strong></a></p>
-  </div>
-</div>
+### 2023
+- [19] **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Chunpeng Wang, Xianglong Tang. "Asynchronous updating Boolean network encryption algorithm," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 33, No. 8, pp. 4388–4400, 2023. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [18] **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jiafeng Liu, Qi Li, Xianglong Tang. "EFR-CSTP: Encryption for face recognition based on the chaos and semi-tensor product theory," **_Information Sciences_**, Vol. 621, pp. 766–781, 2023.
+- [17]  **_Suo Gao_**, Rui Wu, Xingyuan Wang, Jin Wang, Qi Li, Chunpeng Wang, Xianglong Tang. "A 3D model encryption scheme based on a cascaded chaotic system," **_Signal Processing_**, Vol. 202, pp. 108745, 2023. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [16] **_Suo Gao_**, Songbo Liu, Xingyuan Wang, Rui Wu, Jin Wang, Qi Li, Xianglong Tang. "New image encryption algorithm based on hyperchaotic 3D-IHAL and a hybrid cryptosystem," **_Applied Intelligence_**, Vol. 53, No. 22, pp. 27826–27843, 2023.
+- [15] Rui Wu, **_Suo Gao_**, Herbert Ho-Ching Iu, Shuang Zhou, Ugur Erkan, Abdurrahim Toktas, Xianglong Tang. "Securing dual-channel audio communication with a 2-D infinite collapse and logistic map," **_IEEE Internet of Things Journal_**, Vol. 11, No. 6, pp. 10214–10223, 2023.
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/SAU.jpg" alt="SAU" style="width: 100px; margin-right: 10px;">
-  <div>
-    <p><strong>Shenyang Aerospace University (2014.09-2018.09)</strong><br>
-    Bachelor, School of Sciences<br>
-    Shenyang Aerospace University (SAU), China<br>
-    Major: Mathematics</p>
-  </div>
-</div>
+### 2022  
+- [14] Rui Wu, **_Suo Gao_**, Xingyuan Wang, Songbo Liu, Qi Li, Ugur Erkan, Xianglong Tang. "AEA-NCS: An audio encryption algorithm based on a nested chaotic system," **_Chaos, Solitons & Fractals_**, Vol. 165, p. 112770, 2022.
+- [13] Qi Li, Chunpeng Wang, Xiaoyu Wang, Jian Li, Zhiqiu Xia, **_Suo Gao_**, Bin Ma. "基于残差学习的新型不可感知水印攻击方法," **_软件学报_**, Vol. 34, No. 9, pp. 4351–4361, 2022.
+- [12] Qi Li, Xingyuan Wang, Bin Ma, Xiaoyu Wang, Chunpeng Wang, **_Suo Gao_**, Yunqing Shi. "Concealed attack for robust watermarking based on generative model and perceptual loss," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 32, No. 8, pp. 5695–5706, 2022. 🔥 **_Highly Cited Paper and Hot Paper_**
+- [11] Shuang Zhou, Xingyuan Wang, Yingqian Zhang, Bin Ge, Mingxu Wang. **_Suo Gao_**. "A novel image encryption cryptosystem based on true random numbers and chaotic systems," **_Multimedia Systems_**, Vol. 28, No. 1, pp. 95-112, 2022.
 
-Experience
-------
-<div style="display: flex; align-items: center;">
-  <img src="/images/dpu.jpg" alt="HIT" style="width: 100px; margin-right: 10px;">
-  <div><p><strong>Dalian Polytechnic University (2025.01-Present)</strong><br>
-    Associate Professor<br>
-    School of Information Science and Engineering<br>
-    Dalian Polytechnic University<br>
-    No. 1 Qinggongyuan, Ganjingzi District, Dalian, China, 116034, China</p>
-  </div>
-</div>
+### 2021  
+- [10] Xingyuan Wang, **_Suo Gao_**. "A chaotic image encryption algorithm based on a counting system and the semi-tensor product," **_Multimedia Tools and Applications_**, Vol. 80, No. 7, pp. 10301–10322, 2021.
+- [9] Xingyuan Wang, **_Suo Gao_**, Xiaolin Ye, Shuang Zhou, Mingxu Wang. "A new image encryption algorithm with cantor diagonal scrambling based on the PUMCML system," **_International Journal of Bifurcation and Chaos_**, Vol. 31, No. 01, p. 2150003, 2021.
+- [8] Qi Li, Xingyuan Wang, He Wang, Xiaolin Ye, Shuang Zhou, **_Suo Gao_**, Yunqing Shi. "A secure image protection algorithm by steganography and encryption using the 2D-TSCC," **_Chinese Physics B_**, Vol. 30, No. 11, p. 110501, 2021.
+    
+### 2020
+- [7] Xingyuan Wang, **_Suo Gao_**. "Image encryption algorithm for synchronously updating Boolean networks based on matrix semi-tensor product theory," **_Information Sciences_**, Vol. 507, pp. 16–36, 2020.  🔥 **_Highly Cited Paper_**
+- [6] Xingyuan Wang, **_Suo Gao_**. "Image encryption algorithm based on the matrix semi-tensor product with a compound secret key produced by a Boolean network," **_Information Sciences_**, Vol. 539, pp. 195–214, 2020.  🔥 **_Highly Cited Paper_**
+- [5] Mingxu Wang, Xingyuan Wang, Chunpeng Wang, Zhiqiu Xia, Hongyu Zhao, **_Suo Gao_**, Shuang Zhou, Nianmin Yao. "Spatiotemporal chaos in cross coupled map lattice with dynamic coupling coefficient and its application in bit-level color image encryption," **_Chaos, Solitons & Fractals_**, Vol. 139, p. 110028, 2020.
+- [4] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang. "A new random diffusion algorithm based on the multi-scroll Chua's chaotic circuit system," **_Optics and Lasers in Engineering_**, Vol. 127, p. 105905, 2020. 
+- [3] Xiaolin Ye, Xingyuan Wang, **_Suo Gao_**, Jun Mou, Zhisen Wang, Feifei Yang. "A new chaotic circuit with multiple memristors and its application in image encryption," **_Nonlinear Dynamics_**, Vol. 99, No. 2, pp. 1489–1506, 2020.  
 
+
+### 2019
+    
+- [2] Xingyuan Wang, **_Suo Gao_**. "Application of matrix semi-tensor product in chaotic image encryption,\" **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
+- [1] Xingyuan Wang, **_Suo Gao_**. Longjiao Yu, Yuming Sun, Huaihuai Sun. "Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion," **_IEEE Access_**, Vol. 7, pp. 103662–103677, 2019. 
