@@ -168,6 +168,9 @@ Experience
 
 Academic Activities
 ------
+**Associate Editor**
+- [International Journal of Information Security and Privacy](https://www.igi-global.com/journal/international-journal-information-security-privacy/1096)
+
 **Editorial board member**
 - [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) (Q1)
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
