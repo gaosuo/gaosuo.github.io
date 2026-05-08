@@ -172,6 +172,7 @@ Academic Activities
 - [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) (Q1)
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
 - [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
+- [Journal of Machine Learning and Information Security](https://www.sciltp.com/journals/jmlis/)
 
 **Guest Editor**
 - Special Issue Editor: [Computers](https://susy.mdpi.com/academic-si/SXBhVVpqczJUT2lqYlkyYkRjUkRKdz09) (Q1)
