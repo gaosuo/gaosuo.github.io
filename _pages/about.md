@@ -78,7 +78,7 @@ Experience
 
 ## Publication
 ### 2026
-- [69] Xiangcong Wu, **_Suo Gao_**, Herbert Ho-Ching Iu, Junxin Chen, Yushu Zhang, Yinghong Cao, Jun Mou. "Multi-scroll regulation and control of a programmable memristive hopfield neural network with FPGA implementation," **_SCIENCE CHINA Technological Science_**, 2026, doi.org/10.1007/s11431-025-3273-y.
+- [69] Xiangcong Wu, **_Suo Gao_***, Herbert Ho-Ching Iu, Junxin Chen, Yushu Zhang, Yinghong Cao, Jun Mou. "Multi-scroll regulation and control of a programmable memristive hopfield neural network with FPGA implementation," **_SCIENCE CHINA Technological Science_**, 2026, doi.org/10.1007/s11431-025-3273-y.
 - [68] Yiting Lin, Yunan Wei, Donglong Chen, Yupeng Li, Ugur Erkan, Abdurrahim Toktas, **_Suo Gao_**, Yong Zhang. "Cryptanalysis and Improvement of a Video Cryptosystem via Chaos and S-Box," **_ACM Transactions on Multimedia Computing, Communications and Applications_**, 2026, doi.org/10.1145/3808699.
 - [67] Xiyu Ren, Yinghong Cao, Xianying Xu, Xiaodong Liu, **_Suo Gao_**, Fawaz E. Alsaadi, Jun Mou. "Analysis of associative memory models constructed based on memristor-coupled Hopfield neural networks," **_The European Physical Journal Plus_**, Vol. 141, pp. 23, 2026.
 - [66] **_Suo Gao_**, Fan Shi, Xianying Xu, Junxin Chen, Herbert Ho-Ching Iu, Yinghong Cao. "A Memristor-Based Neural Network Circuit with Classical Conditioning and Fear Generalization," **_IEEE Transactions on Consumer Electronics_**, 2026, doi.org/10.1109/TCE.2026.3663359.
