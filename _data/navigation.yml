@@ -6,17 +6,17 @@
 
 main:
   - title: "Publications"
-   url: /Pub/
-    
- - title: "Education and Experience"
-   url: /cv/
-    
-- title: "Academic"
-    url: /Ac/    
+    url: /Pub/
 
-#- title: "Teaching"
-#   url: /teaching/    
-    
+  - title: "Education and Experience"
+    url: /cv/
+
+  - title: "Academic"
+    url: /Ac/
+
+#  - title: "Teaching"
+#    url: /teaching/
+
   - title: "Awards"
     url: /Aw/
         
