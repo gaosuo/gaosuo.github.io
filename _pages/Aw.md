@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Awards & Honours"
+title: "Awards & Honours"
 permalink: /Aw/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Awards & Honours
 ------
 -  Dalian Science and Technology Talent Innovation Support Policy Implementation Plan Project – Young Science and Technology Star
 -  World's Top 2% Scientists (2025)
