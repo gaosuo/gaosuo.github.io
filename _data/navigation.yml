@@ -11,14 +11,14 @@ main:
   - title: "Education and Experience"
     url: /cv/
     
-- title: "Academic"
-    url: /Ac/    
+#- title: "Academic"
+#    url: /Ac/    
 
 #- title: "Teaching"
 #   url: /teaching/    
     
-  - title: "Awards"
-    url: /Aw/
+#  - title: "Awards"
+#    url: /Aw/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
