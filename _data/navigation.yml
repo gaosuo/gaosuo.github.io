@@ -8,8 +8,8 @@ main:
   - title: "Publications"
    url: /Pub/
     
-  - title: "Education and Experience"
-    url: /cv/
+ # - title: "Education and Experience"
+ #   url: /cv/
     
 #- title: "Academic"
 #    url: /Ac/    
