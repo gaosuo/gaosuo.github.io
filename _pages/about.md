@@ -171,13 +171,17 @@ Experience
 Academic Activities
 ------
 **Associate Editor**
-- [International Journal of Information Security and Privacy](https://www.igi-global.com/journal/international-journal-information-security-privacy/1096)
+- [International Journal of Information Security and Privacy](https://www.igi-global.com/journal/international-journal-information-security-privacy/1096) (Q4)
+- [Frontiers in Imaging](https://www.frontiersin.org/journals/imaging)
 
 **Editorial board member**
+- [Mathematics](https://www.mdpi.com/journal/mathematics) (Q1)
 - [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) (Q1)
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
 - [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
 - [Journal of Machine Learning and Information Security](https://www.sciltp.com/journals/jmlis/)
+
+
 
 **Guest Editor**
 - Special Issue Editor: [Computers](https://susy.mdpi.com/academic-si/SXBhVVpqczJUT2lqYlkyYkRjUkRKdz09) (Q1)
