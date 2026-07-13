@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 **Associate Editor**
 - [International Journal of Information Security and Privacy](https://www.igi-global.com/journal/international-journal-information-security-privacy/1096) (Q4)
 - [Frontiers in Imaging](https://www.frontiersin.org/journals/imaging)
 
 **Editorial board member**
 - [Mathematics](https://www.mdpi.com/journal/mathematics) (Q1)
-- [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) (Q1)
+- [International Journal of Modeling, Simulation, and Scientific Computing](https://www.worldscientific.com/worldscinet/ijmssc) (Q4)
+- [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) 
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
 - [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
 - [Journal of Machine Learning and Information Security](https://www.sciltp.com/journals/jmlis/)
