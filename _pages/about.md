@@ -175,7 +175,8 @@ Academic Activities
 
 **Editorial board member**
 - [Mathematics](https://www.mdpi.com/journal/mathematics) (Q1)
-- [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) (Q1)
+- [International Journal of Modeling, Simulation, and Scientific Computing](https://www.worldscientific.com/worldscinet/ijmssc) (Q4)
+- [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) 
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
 - [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
 - [Journal of Machine Learning and Information Security](https://www.sciltp.com/journals/jmlis/)
@@ -189,7 +190,7 @@ Academic Activities
 - Special Issue Editor: [Cryptography](https://www.mdpi.com/journal/cryptography/special_issues/21ODC6F884)(Q1)
 - Special Issue Editor: [Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/N2HY9KRNB3)(Q1)
 
-**Served as a reviewer for over 70 SCI journals**
+**Served as a reviewer for over 100 SCI journals**
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology 
 - Reviewer of IEEE Transactions on Dependable and Secure Computing
 - Reviewer of IEEE Transactions on Industrial Informatics
