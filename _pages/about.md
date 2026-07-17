@@ -77,6 +77,8 @@ Experience
 </div>
 
 ## Publications
+### 2027
+- [67] Yueqi Song, **_Suo Gao_***, Herbert Ho-Ching Iu, Santo Banerjee, Yinghong Cao, Junxin Chen, Yushu Zhang, Jun Mou. "Modeling multiple classical conditioning mechanisms in a Memristor-Based learning circuit," **_Neural Networks_**, Vol. 205, p. 109325, 2027.
 ### 2026
 - [75] **_Suo Gao_**, Fan Shi, Xianying Xu, Junxin Chen, Herbert Ho-Ching Iu, Yinghong Cao, Lei Qin, Jun Mou. "A Memristor-Based Neural Network Circuit with Classical Conditioning and Fear Generalization," **_IEEE Transactions on Consumer Electronics_**, Vol. 72, No. 2, pp. 3213-3224, 2026.
 - [74] **_Suo Gao_**, Yueqi Song, Yinghong Cao, Herbert Ho-Ching Iu, Lei Qin, Yushu Zhang, Jun Mou. "Biologically Plausible Memristive Decision-Making Circuit for Adaptive Control in Industrial Autonomous Navigation," **_IEEE Transactions on Industrial Informatics_**, Vol. 22, No. 6, pp. 4801-4812, 2026.
@@ -86,7 +88,6 @@ Experience
 - [70] Xiangcong Wu, **_Suo Gao_***, Herbert Ho-Ching Iu, Junxin Chen, Yushu Zhang, Yinghong Cao, Jun Mou. "Multi-scroll regulation and control of a programmable memristive hopfield neural network with FPGA implementation," **_SCIENCE CHINA Technological Science_**, Vol. 69, No. 9, pp. 1920406, 2026.
 - [69] Siqi Ding, Xinyue Wang, Pengyu Zhu, Ugur Erkan, Abdurrahim Toktas, Qi Li, Jun Mou, **_Suo Gao_***. "SRA: A sine-based reconstruction approach to improve 2D chaotic map performance," **_The European Physical Journal Plus_**, Vol. 141, pp. 182, 2026. 🔥 **_Highly Cited Paper_**
 - [68] Siqi Ding, Fan Shi, Ugur Erkan, Abdurrahim Toktas, Qi Li, Chunpeng Wang, **_Suo Gao_***, Jun Mou. "Design of a three-dimensional logistic map and its application to seafood image encryption," **_The Journal of Supercomputing_**, Vol. 82, pp. 225, 2026.
-- [67] Yueqi Song, **_Suo Gao_***, Herbert Ho-Ching Iu, Santo Banerjee, Yinghong Cao, Junxin Chen, Yushu Zhang, Jun Mou. "Modeling multiple classical conditioning mechanisms in a Memristor-Based learning circuit," **_Neural Networks_**, 2026, doi.org/10.1016/j.neunet.2026.109325.
 - [66] Boqi Suzhang, Xiaozhou He, Xianying Xu, Xuhui Huang, Lei Qin, **_Suo Gao_***, Jun Mou, Ahmed A. Abd El-Latif, Basma Abd El-Rahiem. "S-CNN: A Dual-Region Feature Convolutional Network for Fish Freshness Assessment Based on Eyes and Gills Characteristics," **_Expert Systems_**, Vol. 43, No. 7, pp. e70319, 2026.
 - [65] Yichen Bi, Jun Mou, Herbert Ho-Ching Iu, Nanrun Zhou, Santo Banerjee, **_Suo Gao_***. "Dynamics analysis and DSP implementation of the Rulkov Neuron Model with Memristive Synaptic Crosstalk," **_Chinese Physics B_**, Vol. 35, No. 1, pp. 010504, 2026. 🔥 **_Highly Cited Paper_**
 - [64] Ke Meng, Yifan Bu, Yinghong Cao, **_Suo Gao_**, Qi Li, Chunpeng Wang, Jun Mou. "Chaotic bursting and burst synchronization in a discrete dual-Rulkov neural network with memristive synaptic coupling," **_Chinese Physics B_**, Vol. 35, No. 6, pp. 060501, 2026.
@@ -106,7 +107,7 @@ Experience
 - [50] Yueqi Song, Xiaozhou He, Xianying Xu, Yinghong Cao, Santo Banerjee, **_Suo Gao_**, Jun Mou. "Echolocation-Inspired Memristive Behavioral Decision Circuit," **_Chinese Physics B_**, Vol. 35, No. 6, pp. 060701, 2026.
 - [49] Xiyu Ren, Xianying Xu, Xiaodong Liu, Minghui Zhang, Santo Banerjee, **_Suo Gao_**, Jun Mou. "Studying relationships from the perspective of chaos theory," **_Chinese Physics B_**, Vol. 35, No. 6, pp. 060504, 2026.
 - [48] Yueqi Song, **_Suo Gao_**, Xianying Xu. "Discrete Tri-Cycle Memristive Synapse Hopfield Neural Network: Dynamics and Implementations," **_International Journal of Bifurcation and Chaos_**, Vol. 36, No. 02, pp. 2650019, 2026.
-- 
+
 ### 2025
 - [47] **_Suo Gao_**, Zheyi Zhang, Qi Li, Siqi Ding, Herbert Ho-Ching Iu, Yinghong Cao, Xianying Xu, Chunpeng Wang, Jun Mou. "Encrypt a Story: A Video Segment Encryption Method Based on the Discrete Sinusoidal Memristive Rulkov Neuron," **_IEEE Transactions on Dependable and Secure Computing_**, Vol. 22, No. 6, pp. 8011-8024, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
 - [46] **_Suo Gao_**, Herbert Ho-Ching Iu, Ugur Erkan, Cemaleddin Simsek, Abdurrahim Toktas, Yinghong Cao, Rui Wu, Jun Mou, Qi Li, Chunpeng Wang. "A 3D memristive cubic map with dual discrete memristors: Design, implementation, and application in image encryption," **_IEEE Transactions on Circuits and Systems for Video Technology_**, Vol. 35, No. 8, pp. 7706-7718, 2025. 🔥 **_Highly Cited Paper and Hot Paper_**
@@ -165,7 +166,6 @@ Experience
 
 
 ### 2019
-    
 - [2] Xingyuan Wang, **_Suo Gao_**. "Application of matrix semi-tensor product in chaotic image encryption,\" **_Journal of the Franklin Institute_**, Vol. 356, No. 18, pp. 11638–11667, 2019.
 - [1] Xingyuan Wang, **_Suo Gao_**. Longjiao Yu, Yuming Sun, Huaihuai Sun. "Chaotic image encryption algorithm based on bit-combination scrambling in decimal system and dynamic diffusion," **_IEEE Access_**, Vol. 7, pp. 103662–103677, 2019. 
 
