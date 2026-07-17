@@ -78,7 +78,7 @@ Experience
 
 ## Publications
 ### 2027
-- [67] Yueqi Song, **_Suo Gao_***, Herbert Ho-Ching Iu, Santo Banerjee, Yinghong Cao, Junxin Chen, Yushu Zhang, Jun Mou. "Modeling multiple classical conditioning mechanisms in a Memristor-Based learning circuit," **_Neural Networks_**, Vol. 205, p. 109325, 2027.
+- [76] Yueqi Song, **_Suo Gao_***, Herbert Ho-Ching Iu, Santo Banerjee, Yinghong Cao, Junxin Chen, Yushu Zhang, Jun Mou. "Modeling multiple classical conditioning mechanisms in a Memristor-Based learning circuit," **_Neural Networks_**, Vol. 205, p. 109325, 2027.
 ### 2026
 - [75] **_Suo Gao_**, Fan Shi, Xianying Xu, Junxin Chen, Herbert Ho-Ching Iu, Yinghong Cao, Lei Qin, Jun Mou. "A Memristor-Based Neural Network Circuit with Classical Conditioning and Fear Generalization," **_IEEE Transactions on Consumer Electronics_**, Vol. 72, No. 2, pp. 3213-3224, 2026.
 - [74] **_Suo Gao_**, Yueqi Song, Yinghong Cao, Herbert Ho-Ching Iu, Lei Qin, Yushu Zhang, Jun Mou. "Biologically Plausible Memristive Decision-Making Circuit for Adaptive Control in Industrial Autonomous Navigation," **_IEEE Transactions on Industrial Informatics_**, Vol. 22, No. 6, pp. 4801-4812, 2026.
