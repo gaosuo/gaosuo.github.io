@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 80 SCI indexed papers and more than 4500 citations. Notably, 20 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024 and 2025, he was listed among the World's Top 2% Scientists. 
+Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 80 SCI indexed papers and more than 4500 citations. Notably, 20 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024-2026, he was listed among the World's Top 2% Scientists (2026 Rank: 60,279;  2025 Rank: 140,888; 2024 Rank: 213,691). 
 
 
 
@@ -188,12 +188,18 @@ Academic Activities
 - [Frontiers in Imaging](https://www.frontiersin.org/journals/imaging)
 
 **Editorial board member**
+- [中国通信(China Communications)](http://www.cic-chinacommunications.cn/EN/home) (JCR Q3)
+- [NYDA](https://www.revistadyna.com/scientific-board) (JCR Q4)
 - [Mathematics](https://www.mdpi.com/journal/mathematics) (JCR Q1)
+- [Big Data and Cognitive Computing](https://www.mdpi.com/journal/BDCC) (JCR Q1)
+- [Future Internet](https://www.mdpi.com/journal/futureinternet)(JCR Q2)
+- [Computers](https://www.mdpi.com/journal/computers)(JCR Q2)
 - [International Journal of Modeling, Simulation, and Scientific Computing](https://www.worldscientific.com/worldscinet/ijmssc) (JCR Q4)
 - [Chaos Theory and Applications](https://dergipark.org.tr/en/pub/chaos) 
 - [Nonlinear Science and Control Engineering](https://www.accscience.com/journal/NSCE)
 - [Chaos and Fractals](https://journals.adbascientific.com/chf/about)
 - [Journal of Machine Learning and Information Security](https://www.sciltp.com/journals/jmlis/)
+- [AI in Food](https://www.keaipublishing.com/en/journals/ai-in-food/)
 
 **Guest Editor**
 - Special Issue Editor: [Computers](https://susy.mdpi.com/academic-si/SXBhVVpqczJUT2lqYlkyYkRjUkRKdz09) (JCR Q1)
