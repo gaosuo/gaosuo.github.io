@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 80 SCI indexed papers and more than 4500 citations. Notably, 20 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024-2026, he was listed among the World's Top 2% Scientists (2026 Rank: 60,279;  2025 Rank: 140,888; 2024 Rank: 213,691). 
+Suo Gao (Member, IEEE) received his Ph.D. degree in Computer Science and Technology from Harbin Institute of Technology, China, in 2024. He is currently an Associate Professor at the School of Information Science and Engineering, Dalian Polytechnic University, China. His research interests include machine learning, image encryption, cryptography, and memristors. He has published over 80 SCI indexed papers and more than 4800 citations. Notably, 20 of his papers have been recognized as ESI Hot Papers and Highly Cited Papers. In 2024-2026, he was listed among the World's Top 2% Scientists (2026 Rank: 60,279;  2025 Rank: 140,888; 2024 Rank: 213,691). 
 
 
 
